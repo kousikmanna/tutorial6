@@ -1,0 +1,1367 @@
+From: "Saved by Windows Internet Explorer 8"
+Subject: Windows XP/2000 Commands and Tools
+Date: Sat, 12 Jun 2010 00:56:25 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01CB09CA.155D7040"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7600.16385
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.networkclue.com/os/Windows/commands/index.aspx
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Windows XP/2000 Commands and Tools</TITLE><!--  A =
+list of powerful and common Windows commands and Tools for XP, 2000, and =
+even NT4.0.  -->
+<META name=3DDescription=20
+content=3D"A list of powerful commands and tools for XP, 2000, and even =
+NT4.0.">
+<META name=3Dkeywords=20
+content=3D"Windows XP commands, Windows 2000 commands, XP commands, =
+Learning Windows XP, Windows 2000, windows &#13;&#10;tools, Windows =
+Commands, XP Scripts, XP tutorial, Windows XP, DOS window, Windows =
+command line, DOS Commands, commandline, win xp commands, win 2000 =
+commands">
+<META content=3DGlobal http-equiv=3Ddistribution>
+<META name=3Dauthor content=3D"Digital Foundation">
+<META name=3Dcopyright=20
+content=3D"Copyright 2002-2006, DigitalFoundation.net, San Luis Obispo, =
+CA USA">
+<META name=3Drobots content=3Dall,index,follow>
+<META name=3Drating content=3Dgeneral>
+<META name=3Dlanguage content=3Den-us>
+<META content=3D"text/html; charset=3Dutf-8" =
+http-equiv=3DContent-Type><LINK=20
+rel=3Dstylesheet type=3Dtext/css=20
+href=3D"http://www.networkclue.com/includes/stylesheet.css"><LINK =
+rel=3Dstylesheet=20
+type=3Dtext/css =
+href=3D"http://www.networkclue.com/os/includes/colors.css">
+<SCRIPT language=3DJavaScript>
+<!-- Hide script from non-supported browsers
+
+function new_window(instr)=20
+{=20
+aPopUp=3Dwindow.open(instr,"","width=3D500,height=3D300,location=3Dno,dir=
+ectories=3Dno,status=3Dno,toolbar=3Dno,menubar=3Dno,scrollbars=3Dyes,resi=
+zable=3Dyes,copyhistory=3Dno")
+}
+
+//-->
+</SCRIPT>
+
+<META name=3DGENERATOR content=3D"MSHTML 8.00.7600.16385"></HEAD>
+<BODY bottomMargin=3D0 leftMargin=3D0 rightMargin=3D0 topMargin=3D0 =
+bgColor=3D#ffffff>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+height=3D103>
+  <TBODY>
+  <TR>
+    <TD bgColor=3D#ffffff height=3D60 vAlign=3Dtop width=3D"100%">
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0>
+        <TBODY>
+        <TR>
+          <TD vAlign=3Dtop width=3D"50%" halign=3D"left"><A=20
+            =
+href=3D"http://www.networkclue.com/index.aspx?id=3DHome"><IMG border=3D0 =
+
+            alt=3DNetworkClue.com =
+src=3D"http://www.networkclue.com/images/logo.gif"=20
+            width=3D400 height=3D60> </A></TD>
+          <TD vAlign=3Dtop width=3D"50%" align=3Dmiddle>
+            <TABLE border=3D0>
+              <TBODY>
+              <TR>
+                <TD height=3D22><A class=3Dhead=20
+                  =
+href=3D"http://www.networkclue.com/index.aspx?id=3DHome"><IMG=20
+                  border=3D0 alt=3D"NetworkClue Home Page" =
+align=3DabsMiddle=20
+                  src=3D"http://www.networkclue.com/images/home.gif" =
+width=3D22=20
+                  height=3D22>Home</A> <A class=3Dhead=20
+                  =
+href=3D"http://www.networkclue.com/contact.aspx?id=3DContact"><IMG=20
+                  border=3D0 alt=3D"Contact Us" align=3DabsMiddle=20
+                  src=3D"http://www.networkclue.com/images/contact.gif" =
+width=3D22=20
+                  height=3D22>Contact</A> <A class=3Dhead=20
+                  =
+href=3D"http://www.networkclue.com/consulting.aspx?id=3DConsult"><IMG=20
+                  border=3D0 alt=3DConsulting align=3DabsMiddle=20
+                  =
+src=3D"http://www.networkclue.com/images/consulting.gif"=20
+                  width=3D22 height=3D22>Consult</A><BR></TD>
+              <TR>
+                <TD height=3D33 vAlign=3Dcenter align=3Dmiddle><A =
+class=3Dhead=20
+                  href=3D"http://forums.networkclue.com/phpBB2/"=20
+                  target=3D_blank><IMG border=3D0 alt=3D"Bulletin Board" =
+
+                  =
+src=3D"http://www.networkclue.com/images/bulletinboard.gif"=20
+                  width=3D111 height=3D29></A>=20
+      </TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height=3D43 vAlign=3Dtop=20
+    background=3Dhttp://www.networkclue.com/os/includes/tabbg.gif =
+width=3D"100%"=20
+    noWrap><A =
+href=3D"http://www.networkclue.com/internet/index.aspx"><IMG=20
+      border=3D0=20
+      alt=3D"Internet Services covers Secrets to hosting websites, =
+Hosting your own web server, and using DNS Servers."=20
+      src=3D"http://www.networkclue.com/images/tabs/internet.gif" =
+width=3D132=20
+      height=3D24></A><A =
+href=3D"http://www.networkclue.com/os/index.aspx"><IMG=20
+      border=3D0=20
+      alt=3D"Operating Systems leads you through the decision of Linux =
+vs. Windows, ideal installations and setups to create an efficient and =
+redundant environment for your business, and great features to make =
+management easier."=20
+      src=3D"http://www.networkclue.com/images/tabs/osON.gif" =
+width=3D140=20
+      height=3D24></A><A =
+href=3D"http://www.networkclue.com/routing/index.aspx"><IMG=20
+      border=3D0=20
+      alt=3D"Routing &amp; Firewalls contains articles that will allow =
+you to take control of your router. Learn how to protect your company =
+with access lists and advanced firewall techniques."=20
+      src=3D"http://www.networkclue.com/images/tabs/routing.gif" =
+width=3D138=20
+      height=3D24></A><A=20
+      href=3D"http://www.networkclue.com/hardware/index.aspx"><IMG =
+border=3D0=20
+      alt=3D"Hardware answers the common questions about Switches vs. =
+Hubs, recommends SysAdmin Tools, and recommendations for adequate power =
+protection."=20
+      src=3D"http://www.networkclue.com/images/tabs/hardware.gif" =
+width=3D91=20
+      height=3D24></A><A=20
+      href=3D"http://www.networkclue.com/utilities/index.aspx"><IMG =
+border=3D0=20
+      alt=3D"Utilities will cover fighting spam, using Anti-Virus =
+programs effectively and the must haves for every administrator's =
+software toolbox."=20
+      src=3D"http://www.networkclue.com/images/tabs/utilities.gif" =
+width=3D82=20
+      height=3D24></A> </TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+height=3D22>
+  <TBODY>
+  <TR>
+    <TD class=3Dsectioncolor><IMG alt=3DDefrag=20
+      src=3D"http://www.networkclue.com/images/shim.gif" width=3D180 =
+height=3D22></TD>
+    <TD height=3D22 vAlign=3Dtop width=3D"99%" noWrap>
+      <DIV id=3Dnavpath class=3Dnavpath><A class=3Dnavpath=20
+      href=3D"http://www.networkclue.com/os">Operating Systems</A> =
+&gt;&gt; <A=20
+      class=3Dnavpath =
+href=3D"http://www.networkclue.com/os/Windows/">Windows</A>=20
+      &gt;&gt; Commands &amp; Tools</DIV></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D771 =
+height=3D"90%">
+  <TBODY>
+  <TR>
+    <TD class=3Dsectioncolor vAlign=3Dtop width=3D180><IMG=20
+      src=3D"http://www.networkclue.com/images/shim.gif" width=3D180=20
+      height=3D22><BR><A =
+href=3D"http://www.networkclue.com/os/Linux/index.aspx">
+      <DIV class=3Dmenu>Linux</DIV></A><A=20
+      href=3D"http://www.networkclue.com/os/Windows/index.aspx">
+      <DIV class=3Dmenu>Windows</DIV></A>
+      <DIV class=3Dsubmenu>-<A class=3Dmenu=20
+      =
+href=3D"http://www.networkclue.com/os/Windows/winxp/index.aspx">About=20
+      Windows XP</A><BR>-<A class=3Dmenu=20
+      =
+href=3D"http://www.networkclue.com/os/Windows/licensing/index.aspx">Licen=
+sing</A><BR>-<A=20
+      class=3Dmenu=20
+      =
+href=3D"http://www.networkclue.com/os/Windows/install/unattended-install.=
+aspx">Unattended=20
+      Installations</A><BR>-<A class=3Dmenu=20
+      =
+href=3D"http://www.networkclue.com/os/Windows/commands/index.aspx">Win=20
+      XP/2000 Commands</A><BR>-<A class=3Dmenu=20
+      =
+href=3D"http://www.networkclue.com/os/Windows/learning-DOS.aspx">Learning=
+=20
+      DOS</A><BR>-<A class=3Dmenu=20
+      =
+href=3D"http://www.networkclue.com/os/Windows/AD/index.aspx">Active=20
+      Directory &amp; Domains</A><BR>-<A class=3Dmenu=20
+      =
+href=3D"http://www.networkclue.com/os/Windows/server/nt-2003-migration.as=
+px">Migrating=20
+      from NT to 2003</A><BR></DIV>
+      <TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
+        <TBODY>
+        <TR>
+          <TD>
+            <FORM method=3Dpost name=3Dsearchbox=20
+            action=3Dhttp://search.clicksor.com/index.php><INPUT =
+size=3D19=20
+            name=3Dqry_str> <INPUT value=3D91721 type=3Dhidden =
+name=3Dpid> <INPUT=20
+            value=3D134932 type=3Dhidden name=3Dsid> <INPUT value=3D10 =
+type=3Dhidden=20
+            name=3Dper_page> <INPUT=20
+            value=3Dhttp://www.networkclue.com/images/logo.gif =
+type=3Dhidden=20
+            name=3Dlogo> <INPUT value=3D#FFFFFF type=3Dhidden =
+name=3Dpage_bg_color>=20
+            <INPUT value=3D3 type=3Dhidden =
+name=3Dclicksor_num_sponsor_ad> <INPUT=20
+            value=3D#F0F5FB type=3Dhidden name=3Dsponsor_box_bg_color> =
+<INPUT value=3D3=20
+            type=3Dhidden name=3Dtitle_font_size> <INPUT value=3Dblue =
+type=3Dhidden=20
+            name=3Dtitle_color> <INPUT value=3D2 type=3Dhidden =
+name=3Ddesc_font_size>=20
+            <INPUT value=3Dblack type=3Dhidden name=3Ddesc_color> <INPUT =
+value=3D-3=20
+            type=3Dhidden name=3Dsource_title_size> <INPUT value=3Dblue =
+type=3Dhidden=20
+            name=3Dsource_title_color> <INPUT value=3D-1 type=3Dhidden=20
+            name=3Dreal_url_size> <INPUT value=3Dgreen type=3Dhidden=20
+            name=3Dreal_url_color> <INPUT=20
+            =
+value=3Dhttp://search.clicksor.com/templates/images/newwin.gif=20
+            type=3Dhidden name=3Dnew_win_icon> <INPUT type=3Dhidden =
+name=3Dextra_qry>=20
+            <INPUT value=3D1 type=3Dhidden name=3Dpage> <INPUT =
+type=3Dhidden=20
+            name=3Dqry_id> <INPUT class=3Dbutton_green value=3DSearch =
+type=3Dsubmit name=3Dsubmit>=20
+            </FORM></TD></TR>
+        <TR>
+          <TD height=3D60 vAlign=3Dbottom align=3Dmiddle><A=20
+            href=3D"http://forums.networkclue.com/phpBB2"><IMG =
+border=3D0=20
+            alt=3D"Bulletin Board"=20
+            =
+src=3D"http://www.networkclue.com/images/bulletinboard-side.gif"=20
+            width=3D126 height=3D31></A> </TD></TR></TBODY></TABLE></TD>
+    <TD vAlign=3Dtop width=3D411>
+      <DIV id=3Dbody class=3Dbody>
+      <H1>Windows XP/2000 Commands &amp; Tools</H1>
+      <TABLE width=3D"100%">
+        <TBODY>
+        <TR>
+          <TD>
+            <P class=3Dnote>By Joshua Erdman<BR>Digital Foundation, =
+inc.</P></TD>
+          <TD>
+            <SCRIPT type=3Dtext/javascript>
+digg_url =3D =
+'http://www.networkclue.com/os/Windows/commands/index.aspx';
+</SCRIPT>
+
+            <SCRIPT type=3Dtext/javascript=20
+            src=3D"http://digg.com/tools/diggthis.js"></SCRIPT>
+          </TD></TR></TBODY></TABLE>
+      <P>Here's the ultimate Windows XP/2000 command list that will make =
+any=20
+      Linux user feel at home at the command prompt. A lot of these =
+commands are=20
+      intended for administrating a network, but they are great for =
+savvy home=20
+      users as well.&nbsp; We even listed which OS you need for these=20
+      commands.</P>
+      <UL type=3Dcircle>
+        <LI type=3Dcircle><B>at </B>(windows =
+XP/2000)<B><BR></B>Scheduling=20
+        utility.=20
+        <LI type=3Dcircle><B>bootcfg</B> (XP only)<BR>This utility =
+allows you to=20
+        set up your boot options, such as your default OS and other =
+loading=20
+        options.=20
+        <LI type=3Dcircle><A=20
+        =
+href=3D"http://www.networkclue.com/os/Windows/commands/cacls.aspx"><FONT =
+
+        color=3D#333333 size=3D2><B>cacls</B></FONT></A><FONT =
+color=3D#333333 size=3D2>=20
+        (XP, 2000, &amp; NT4.0)<BR>Changes the ACLs (security Settings) =
+of files=20
+        and folders. Very similar to chmod in Linux.&nbsp;=20
+        <LI type=3Dcircle><FONT color=3D#333333 size=3D2><B>comp</B> (XP =
+&amp;=20
+        2000)<BR>This utility is very similar to <A=20
+        href=3D"http://www.networkclue.com/os/Linux/commands/">diff</A> =
+in=20
+        Linux.&nbsp; Use the /? switch to get examples of command usage. =
+
+        <LI><A=20
+        =
+href=3D"http://www.networkclue.com/os/Windows/commands/defrag.aspx#Contig=
+"><B>contig</B></A>=20
+        (works with NT4.0 and newer)<BR>A great defrag utility for NTFS=20
+        partitions.=20
+        <LI><B>control</B> (XP only) - <FONT color=3D#aa1111=20
+        size=3D2><I>unpublished!</I></FONT><BR>Allows you to launch =
+control panel=20
+        applets from the command line.&nbsp; </FONT></FONT><FONT =
+color=3D#aa1111=20
+        size=3D2>control userpasswords2</FONT><FONT color=3D#333333 =
+size=3D2>, for=20
+        example will launch a helpful local user admin utility.=20
+        <LI><A=20
+        =
+href=3D"http://www.networkclue.com/os/Windows/commands/defrag.aspx"><B>de=
+frag</B></A>=20
+        (XP only - NT4.0 and Win2k use contig)<BR>Yes, XP comes with a =
+command=20
+        line disk defrag utility. If you are running Win2k or NT4.0 =
+there is=20
+        still hope. Contig is a free defrag program that I describe on =
+the=20
+        defrag page.=20
+        <LI><B>diskpart</B> (XP only)<BR>Use this command to manage your =
+disk=20
+        partitions.&nbsp; This is the text version for the GUI Disk =
+Manager.=20
+        <LI><B>driverquery</B> (XP only)<BR>Produces a list of drivers, =
+their=20
+        properties, and their versions. Great for computer =
+documentation.=20
+        <LI><B>eudcedit</B> (XP only) - </FONT><FONT color=3D#aa1111=20
+        size=3D2><I>unpublished!</I></FONT><FONT color=3D#333333 =
+size=3D2><BR>Private=20
+        Character editor.&nbsp; Yes with this program built into Windows =
+XP you=20
+        can create your own font!</FONT>=20
+        <LI><FONT color=3D#333333 size=3D2><B><A=20
+        =
+href=3D"http://www.networkclue.com/os/Windows/commands/findstr.aspx">find=
+str</A><BR></B>Find=20
+        String - similar to Linux's Grep.=20
+        <LI><B>fsutil</B> (XP only) - <FONT color=3D#aa1111=20
+        size=3D2><I>unpublished!</I></FONT><BR>This is a utility with a =
+lot of=20
+        capability.&nbsp; Come back soon for great examples.=20
+        <LI><B>getmac</B> (XP &amp; 2000)<BR>This command gets the Media =
+Access=20
+        Control (MAC) address of your network cards.=20
+        <LI><B>gpresult</B> (XP &amp; 2000)<BR>This generates a summary =
+of the=20
+        user settings and computer group policy settings.=20
+        <LI><B>gpupdate</B> (XP only)<BR>Use this utility to manually =
+apply=20
+        computer and user policy from your windows 2000 (or newer)=20
+        domain.</FONT><FONT color=3D#333333 size=3D2>=20
+        <LI><A=20
+        =
+href=3D"http://www.networkclue.com/os/Windows/commands/ipconfig.aspx"><B>=
+ipconfig</B></A>=20
+        (XP, 2000 &amp; NT4.0)<BR>This handy tool displays IP settings =
+of the=20
+        current computer and much more.=20
+        <LI><A=20
+        =
+href=3D"http://www.networkclue.com/os/Windows/commands/mmc.aspx"><B>MMC</=
+B></A>=20
+        (XP, 2000 &amp; NT4.0) - Microsoft Management Console<BR>This is =
+the=20
+        master tool for Windows, it is the main interface in which all =
+other=20
+        tools use starting primarily in Windows 2000 and newer systems.=20
+        <LI><B>more<BR></B>Utility used to display text output one =
+screen at a=20
+        time. Ex. more c:\windows\win.ini=20
+        <LI><A=20
+        =
+href=3D"http://www.networkclue.com/os/Windows/commands/msconfig.aspx"><B>=
+msconfig</B></A>=20
+        (XP only)<BR>The ultimate tool to change the services and =
+utilities that=20
+        start when your Windows machine boots up. You can also copy the=20
+        executable from XP and use it in Win2k.=20
+        <LI><B>msinfo32</B> (XP &amp;smp; 2000)<BR>An awesome diagnostic =
+tool.=20
+        With it you can get a list of running processes, including the =
+residing=20
+        path of the executable (great for manually removing malware) and =
+get=20
+        detailed information about hardware and system diagnostics.=20
+        <LI><B>narrator</B> (XP only)<BR>Turns on the system narrator =
+(can also=20
+        be found in accessibility options in control panel).&nbsp; Will =
+will=20
+        allow your computer to dictate text to you.=20
+        <LI><B>netsh</B> (XP &amp; 2000)<BR>A network configuration tool =
+
+        console.&nbsp; At the 'netsh&gt;' prompt, use the '?' to list =
+the=20
+        available commands and type "exit" to get back to a command =
+prompt.=20
+        <LI><B>netstat</B> (XP)<BR>A local network port tool - try =
+<I>netstat=20
+        -ano</I>.=20
+        <LI><B><A=20
+        =
+href=3D"http://www.networkclue.com/os/Windows/commands/nslookup.aspx">nsl=
+ookup</A></B>=20
+        (all)<BR>A DNS name resolution tool.=20
+        <LI><B>openfiles</B><B> (XP Only)</B><BR>Allows an administrator =
+to=20
+        display or disconnect open files in XP professional. Type =
+"openfiles /?"=20
+        for a list of possible parameters.=20
+        <LI><B>Pathping</B> (XP &amp; 2000)<BR>A cross between the ping =
+and=20
+        traceroute utilities.&nbsp;Who needs Neotrace when you can use =
+this?=20
+        Type "pathping &lt;ip address&gt;" and watch it go.=20
+        <LI><B>recover</B> (XP &amp; 2000)<BR>This command can recover =
+readable=20
+        information from a damaged disk and is very easy to use.=20
+        <LI><B>reg</B> (XP &amp; 2000)<BR>A console registry tool, great =
+for=20
+        scripting Registry edits.=20
+        <LI><B>sc</B> (XP &amp; 2000)<BR>A command line utility called =
+the=20
+        Service Controller.&nbsp; A power tool to make service changes =
+via a=20
+        logon/logoff or startup/shutdown script.=20
+        <LI><B>schtasks</B> (XP only)<BR>A newer version of the AT=20
+        command.&nbsp; This allows an administrator to schedule and =
+manage=20
+        scheduled tasks on a local and remote machines.=20
+        <LI><B>secedit</B> (XP &amp; 2000)<BR>Use this utility to =
+manually apply=20
+        computer and user policy from your windows 2000 (or newer) =
+domain.&nbsp;=20
+        Example to update the machine policy: secedit /refreshpolicy=20
+        machine_policy /enforce<BR>To view help on this, just type=20
+        secedit.<BR>NOTE: In Windows XP SP1 and news, this command is =
+superceded=20
+        by: gpupdate /force=20
+        <LI><A=20
+        =
+href=3D"http://www.networkclue.com/os/Windows/commands/sfc.aspx"><B>sfc</=
+B></A>=20
+        (XP &amp; 2000)<BR>The system file checker scans important =
+system files=20
+        and replaces the ones you (or your applications) hacked beyond =
+repair=20
+        with the real, official Microsoft versions.=20
+        <LI><B>shutdown</B> (XP &amp; 2000)<BR>With this tool, You can =
+shut down=20
+        or restart your own computer, or an administrator can shut down =
+or=20
+        restart a remote computer.=20
+        <LI><B>sigverif</B> (XP only)<BR>Microsoft has created driver=20
+        signatures. A signed driver is Microsoft tested and approved. =
+With the=20
+        sigverif tool you can have all driver files analyzed to verify =
+that they=20
+        are digitally signed. Just type 'sigverif' at the command =
+prompt.=20
+        <LI><B>systeminfo</B> (XP only)<BR>Basic system configuration=20
+        information, such as the system type, the processor type, time =
+zone,=20
+        virtual memory settings, system uptime, and much more.&nbsp; =
+This=20
+        program is great for creating an inventory of computers on your =
+network.=20
+
+        <LI><B>sysedit</B> (XP/2000)<BR>System Configuration File =
+Editor.&nbsp;=20
+        An old tool that was very handy for the Windows 9X days.&nbsp; =
+msconfig=20
+        is what you want to use now.=20
+        <LI><B>tasklist</B> (XP pro only)<BR>Tasklist is the command =
+console=20
+        equivalent to the task manager in windows. It is a must have =
+when=20
+        fighting scumware and viruses. Try the command:<BR>tasklist =
+/svc<BR>to=20
+        view the memory resources your services take up.=20
+        <LI><B>taskkill</B> (XP only)<BR>Taskkill contains the rest of =
+the task=20
+        manager functionality.&nbsp; It allows you to kill those =
+unneeded or=20
+        locked up applications.=20
+        <LI><B>tree</B> (XP &amp; 2000)<BR>An amazing experience =
+everyone should=20
+        try!&nbsp; This command will provide a 'family tree' style =
+display of=20
+        the drive/folder you specify.=20
+        <LI><B>WMIC</B> (XP &amp; 2000)<BR>Windows Management =
+Instrumentation=20
+        Command tool.&nbsp; This allows you to pull an amazing amount of =
+
+        low-level system information from a command line scripting =
+interface.=20
+        </LI></UL>
+      <P>Of course this list in note exhaustive.&nbsp; We wanted to =
+focus on=20
+      tools that are particularly helpful that everyone would use.&nbsp; =
+For the=20
+      official list, please visit:<BR><A=20
+      =
+href=3D"http://www.microsoft.com/resources/documentation/windows/xp/all/p=
+roddocs/en-us/ntcmds.mspx"=20
+      target=3D_blank>Microsoft Windows XP Pro Command Reference</A></P>
+      <P>If you think these commands were handy, check out our list of =
+helpful=20
+      <A=20
+      =
+href=3D"http://www.networkclue.com/os/Windows/commands/shortcut-keys.aspx=
+">Windows=20
+      Shortcut Keys</A>.</P>
+      <P class=3Dnote align=3Dright>Article last reviewed: =
+02/12/2007</P>
+      <TABLE width=3D"90%">
+        <TBODY>
+        <TR>
+          <TD>
+            <SCRIPT type=3Dtext/javascript>
+digg_url =3D =
+'http://www.networkclue.com/os/Windows/commands/index.aspx';
+</SCRIPT>
+
+            <SCRIPT type=3Dtext/javascript=20
+            src=3D"http://digg.com/tools/diggthis.js"></SCRIPT>
+          </TD>
+          <TD><A=20
+            =
+href=3D"http://www.stumbleupon.com/submit?url=3Dhttp://www.networkclue.co=
+m/os/Windows/commands/index.aspx"><IMG=20
+            border=3D0 alt=3D""=20
+            src=3D"http://www.networkclue.com/images/120x20_su_blue.gif" =
+width=3D120=20
+            height=3D20></A> <BR><A=20
+            =
+onclick=3D"window.open('http://del.icio.us/post?v=3D4&amp;noui&amp;jump=3D=
+close&amp;url=3D'+encodeURIComponent(location.href)+'&amp;title=3D'+encod=
+eURIComponent(document.title), =
+'delicious','toolbar=3Dno,width=3D700,height=3D400'); return false;"=20
+            href=3D"http://del.icio.us/post"><IMG border=3D0 =
+align=3Dleft=20
+            =
+src=3D"http://images.del.icio.us/static/img/delicious.small.gif">=20
+            del.icio.us</A> <BR>
+            =
+<SCRIPT>reddit_url=3D'http://www.networkclue.com/os/Windows/commands/inde=
+x.aspx'</SCRIPT>
+
+            <SCRIPT type=3Dtext/javascript=20
+            src=3D"http://reddit.com/button.js?t=3D1"></SCRIPT>
+          </TD></TR>
+        <TR>
+          <TD colSpan=3D2>
+            <P class=3Dnote align=3Dright>Created by: <A=20
+            href=3D"http://www.digitalfoundation.net/" =
+target=3D_blank>Digital=20
+            Foundation, inc.</A></P>
+            <P class=3Dnote align=3Dright>Copyright =C2=A9 2002-2005 =
+Digital Foundation,=20
+            inc. &nbsp; <A=20
+            =
+href=3D"http://www.networkclue.com/">http://www.networkclue.com/</A></P><=
+/TD></TR>
+        <TR>
+          <TD>
+            <SCRIPT language=3DJavaScript type=3Dtext/javascript=20
+            =
+src=3D"http://xslt.alexa.com/site_stats/js/t/b?amzn_id=3Dnetworkclue-20&a=
+mp;url=3Dwww.networkclue.com"></SCRIPT>
+          </TD>
+          <TD>
+            <P class=3Dnote>All content of the NetworkClue website is =
+copyrighted.=20
+            Articles, notes, outlines, and all other materials may not =
+be stored=20
+            on the Internet or sold or placed by themselves or with =
+other=20
+            material in any electronic or printed format in whole or =
+part.=20
+            However materials may be referenced by links to the=20
+        site.</P></TD></TR></TBODY></TABLE></DIV></FONT></TD>
+    <TD bgColor=3D#ffffff vAlign=3Dtop width=3D180>
+      <P>&nbsp;</P>
+      <P><B>Related Articles:</B><BR><IMG border=3D0 alt=3DWindows=20
+      src=3D"http://www.networkclue.com/images/dottriangle.gif" =
+width=3D8=20
+      height=3D12><A=20
+      =
+href=3D"http://www.networkclue.com/os/Windows/">Windows</A><BR>&nbsp;&nbs=
+p;=20
+      <A=20
+      =
+href=3D"http://www.networkclue.com/os/Windows/commands/shortcut-keys.aspx=
+">Shortcut=20
+      Keys</A><BR><IMG border=3D0 alt=3D"Unattended Installs"=20
+      src=3D"http://www.networkclue.com/images/dottriangle.gif" =
+width=3D8=20
+      height=3D12><A=20
+      =
+href=3D"http://www.networkclue.com/os/Windows/install/unattended-install.=
+aspx">Unattended=20
+      Installs</A><BR><IMG border=3D0 alt=3D"Advanced DOS"=20
+      src=3D"http://www.networkclue.com/images/dottriangle.gif" =
+width=3D8=20
+      height=3D12><A=20
+      =
+href=3D"http://www.networkclue.com/os/Windows/advanced-DOS.aspx">Advanced=
+=20
+      DOS</A></P>
+      <P></P></TD></TR></TBODY></TABLE></BODY></HTML>
+
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.networkclue.com/images/logo.gif
+
+R0lGODlhkAE8AKIHALi7v+Dh4XB2ezo6OgxLgY6cqAAAAP///yH5BAEAAAcALAAAAACQATwAAAP/
+eLrc/jDKSau9OOvNu/9gKI5kaZ5oqq5s675wLM90bd94ru987//AoHBILBqPyKRyyWw6n9CodEqt
+Wq/YrHbL7Xq/4LB4TC6bz+i0es1uu9/wuA0gqAsAmYK9INfY7yQBBQMDBoaGhAUBFAF/fVYCh4Z4
+F4WILY1dkgIijZKfm4sRAJKPVZGSAxiWBqoqnq5bmyCeoLaHfBCkh6ZUqLMWrLEnu62ah5weAbfM
+yLqlvVK/kqIUwirXXMAcy6ADBQCLAXSszg7FBtHStsMS2SjvWtsa3anVDgWglAzo6lHT8yLEMzEQ
+S8BVn3JJqHepQT9/TwBSs3aoXYmCVw5aQGdA/+EEhh0dQoPYRGJFig3hndRmTkO5ZBamtXtIksm0
+fBoZYHQg6I+iCjtj0PkTbkNPQAtyTuB4j9GnfQdoshj3B6kJqkQxYLUDNUOjPU0XDK1T1MQ0Op/C
+6lwZASc7jwyatWIIl4FbAzDxjWRQi13XBqUClDOUKyfIvNPyxmwl4KfYvQqCRmb7oC8oAWo5ABgc
+ailnZJmjruRY8Z5JvKE5nD1QzuLalDw/fxoQVq6qVBFkCqSs4PQnzBBKfU6m8TDgiV4zS50M+0FQ
+35L+0oOOSPoBwXIJP7tEXZxsRKn9RBetdCdIuU1tH5gWAVR7XA2o23sg6e74AweN8/1UYjlr3v8O
+7CQffB1gl50hYRl4oGIKFDOAfLR911IIq62XFgQYndcYABwCRBsDdgizB3mTVKbPA+iYNtsdHNpn
+jAPZxRKQfnYppRlk/zUXIIAWpgJOi4NZB9RsP6I13wIKIlKkRAySZsiGAgwmIgCDgBIeBhXmqCNz
+LzbQ2l9JMqilRRq5KOYvw3AEXAP2MWgLIJvBNA+NINq4gX+SjXlOQg8AdCWKfDYQZp318QRQV6R9
+SGigSDIKQpZqOgcgOorGhtxrXS6AEWeuFaqpUval99R7Tzaa00394ZhnQY7GZyeGnvKEmwIgCakb
+P7OZ2GqDs1J4X28XeglgOUKSiNeOOt5VGyL/ODJUDaUToBpXr/SZQ6ewhxR7p6o8YjqTneVoAG1u
+yCU2QTn3MAUBQLttqdqvXGbKZTsMuYatvHoKGiuvT8LbY6ZZQlDvcYekNsu19xqgrbjcuvtpc9OE
+d9fCrha8ECKKojvBXXmN2+e+99q7QcDGHuutSARKEHHIkkKMyy+KsZJXuCgZQjC+N2P227n+goBn
+tw/LS63ArybMiL5ATwsbOmICm227OL/7dMUWB90OyYBObfUDd90rCGXOKh011QqLLbICqeQabc8f
+/OzwvPtNSOrYwcldATp1tWzzY3YvsDKsb2eAtZaZDjQgM3BleGk9qoStQNdiN41yiUn1LbYt/9qa
+S4LbdOfL74HsZFD05GVTwB7flH/MC9RnC852pHBjCvrOJ+sNk1vEaS0zrpaT7pGd2aXGcaqr1846
+77OrbQFDkpOrtcp7oWMrjsY/yva/CMYedPJyC8jWL5TAXHnqxjaPuslo957+bEOT3noEyjXceTxO
+zv4+8uhfMLgDp39euup7A1znsHQ9wrliIK0hhAIXyEAFJq5bKVpfOh43Gsgw7W7wAl5CaiUB/tCj
+Fd9Il/xaR79UNPCECzQf6VTIvwIuaoL+m17x9Ha/xTyPdMdCIPUyEJTxMM5U2RNf3EpFAelFbgKB
+UpcA/3eBu6RphDxbGshMMDr8Uax/xpJhAP9pOIL9Oa1ghrsUB57jDLd4hBV8YMVf2gdAJmqQiPGS
+nBNdMg/OkRBsVeQAGwUlwpS5I3oFxCKyBqg/FxpwIHfJGx+Ptx2bqXFRd6AezaK4Rfyoz5JwvM6u
+aDWqC3AEKnZEIm/2KKgO5ElLnGBeBahlxHXtUHvWu+GebkEvUvoNY00JirMsWB8eeZGTo7xkQELl
+ytJUYmicg6GumqOxi4GQhS8MDzCaOYo6BvKVnosl+YrpjUEyUVZizOYg0YQ0ZmlnloHT3PjyV61M
+xsteCOPmNv3ztza2Y3jQ8yMG1TexL7LTm6C85gwHWcMK/HJ7AHJiaFpDUAm46JuEqxqMpgj/xOwd
+sYN2A4kiPZQay+CLnoZRHjD1iT8D/OlmEKXVJEESmludT4vKbKgIDuo/HrVGLX7yZmjOY9IWihSH
+eYPdRed2pmB580lqqZJRzwdOkibKpyQtmZg8yKZO8uUlL0wpQODSyjb+MXAElKU8t0SaO4hDqX3z
+ECH0RlZQKNKfrfjJOKS0LHdO1K7vFNhnHhSiW6jFP5hExo/QykYpydVIxrxrJRHaGHFw9Kq/kSth
+/9lVqMaUZTM1pOyi9lBmNK2zYQFI06y0EAmRVrHmywlHFJmk2cVvoDVFHI9aKxfrUFVQpg2nJmcn
+psqS7auEtOE2JcARkdXvMvm0akVDwtb7/w2oUjkTJV7h2tLkQZd0EOgsNRyk1wNd93Lwy+0ArEPb
+NzUypf4EbkFNp9kXns2js1kYZ/JGTbK91SHfGS9Gp7vO5jEUflGSi1XOOwrZAIe7BWbGg6S7WDZ9
+Z01teXBofPtC9TJhKAps7AWOAo6TlqAnGXYMEagUpQyb9cN6IISGjZJiFUN4cy3+BsXEEuMT1+TG
+ONbFfddDgMY8Dh/XaYog1sMVDYCDj1T6QAA8nOMm50APEyBAAQrQ4wPUhQ8+tgsnpDxlJvcGLo31
+Mv927OQyP5kAaG4EHqa8AAK0OQBuhjOa6UBlLs8Zym5GEpr5kGc391jK10GzlOXcmD3zoejO4xB0
+Nf7MBzlPGc1mjjQQqCwIKft5H3leD5U1DedNN9bNALD0AQTtZ0UQAM4KKDWqBy1lQLR6ypg5NZVD
+/ZU2m1rTo4bzjCXNaxdAedSjDjUDMi3qPBd61FgWNJ6H/eU+AxvYxgaHoEMt7V+32sowcTap6dzr
+buNg08LeM7MDDW08iHpDoL52poMd7FNDO9XstvQiWk2lU6cbypuGd7mtrGtv+5sGdSYAHlA97GkD
+O9R7dvOsSb1ssQjayg93NsLtbGiBb/nOnKDDuw/+8Hz/++MAX3cEBJ5rkJtcHbS+m7hPzvKWMyEB
+ADs=
+
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.networkclue.com/images/home.gif
+
+R0lGODlhFgAWAJEDAK6CbP///wAAAP///yH5BAEAAAMALAAAAAAWABYAAAI5nI+py+0PIxNSCUCr
+uQBr3nkRGIoOWZoLmqoIdQkyNsNNHODxo9P7icmlMrcgijiRKZdIjfMJjUoLADs=
+
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.networkclue.com/images/contact.gif
+
+R0lGODlhFgAWAJEDAK6CbP///wAAAP///yH5BAEAAAMALAAAAAAWABYAAAJQnIapy8f/HJxIUmiT
+2HvmDYRh1yiCGADpWGphkK5AZrgqrIrzIp23LvrYcMCdaSjTCSsvXHLJ/MloFl9u2tJYR7Rag9Ot
+XCjhsdecRR/VigIAOw==
+
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.networkclue.com/images/consulting.gif
+
+R0lGODlhFgAWAJECAK6CbAAAAP///wAAACH5BAEAAAIALAAAAAAWABYAAAJDVISpy8f/HJxIUmgb
+zYsrbwQiKAGJaFSJqSomarFnNG6rwI4ozrdYrXF9Qr0ZQuY47IokHcY2AfkiF2iVesVmO9tFAQA7
+
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.networkclue.com/images/bulletinboard.gif
+
+R0lGODlhbwAdANUAAIODg2RkZKSkpO3t7fz8/LGxsbW1tfLy8s3NzZSUlFxcXLm5ucLCwtHR0fn5
++djY2EdHR9XV1tzc3JycnHNzc+Dg4LS1vKOkqbi4wMrKyq2trVZWVnl6eaytsomJieLi4tbX2vj4
++Nra2n5+fr6+v5CQkOrq6o6Ojt7e3vX19cTExKurq6iorKeoqf7+/ujo6Pf39+Xl5YeIjN3e3ufn
+6K6wt8HByJeXmOPj44+RktPT1J+gqLu7vN3d3WxsbP///yH5BAAAAAAALAAAAABvAB0AAAb/wJ9w
+SCwaj8ikcslsOp/QqHRKjR4YsRZFQqh6v2Cm66WpDA6U0yHMboMPhY8JdYMAXu683ulQSR4IARs+
+E3h7h4hEAxk/PQEBBg8qDF2JlnoVHg0GEAUPEhEqPGuXpWESHhsbCg8VKH8IBRWVSz62t0m2P7pI
+PkK8ubfAXsNCMQIUthOfPSIPDQsIBAQ9GS+0RMDFQ7rbv75O2uDE40MwDwYaBQkaDz09fw88CQIA
+EBwrLy5F4rvg3b54CfMH0J/BbOME4vqmUOFBIi4cDJjY4IYBCRJ64FjggcQCVQEm6MD2sKDBgg5T
+mvzGLeC/gC1Luix3JEWGEgxEVABxgUeB/w0BFPhI0ICkMIcnXR40ybTc0ZcsGSqN6g3iARIlGiAA
+AMKGgkccAAj4sA9hTJVJB6J9KHMp1JVIlbgwYWBCAgbrcgSgAKAEAhhG+qFdSXXqMMFvE8dkm4TA
+BwEJIgSVsSOsgQFlzbIEqLSp28+Lk25WPJpmkhQFVgT9yuKCABwkpSIWTTBhZ6gtB0rNTZiwkgMT
+BAkdweFGhwqZTSmfMkDABggKRgCg16HGjOTLszcZUIBCAA4jBDxA18FChNja0xtJwcDDCA8GKjhw
+UMEACwtF1es/QqBCgQIIDFAJfQasgEF++yUoBAwmDABDcgRs1IJ56Clo4Q8ExEDChD1UeCphggS8
+wIABJNCA3YcWEmACAiro4ACKMGJ4QAUxABYjihGF4OGNPPYIRRAAOw==
+
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.networkclue.com/images/tabs/internet.gif
+
+R0lGODlhhAAYAMQfAGh4iFppd5mjrJCZooORnk1aZujp67a+xmVxfPT19aGnrHCDlD5JU6ixu6et
+s9PW2dnd4dDT1bK4vt7f4M7R1C8vL73Ey8LIzXuKmHmDjNXZ3by8vN/j6P///3aKnf///yH5BAEA
+AB8ALAAAAACEABgAAAX/4Cd2ybOdaKqubOu+cCzP9KYUTieKTpIYnKBwSCwaj8ikcslsOh+ASmT3
+KRwcnqx2y+16v+CweEwum7MYRoVaERDO8Lh8Th8jKoZd+13v+/+AHhh3E3puYwQHCw0CWQSMB5GR
+iZKKDZKNCwcDWQINmpUDlQeNjpGZo4uYi6UengKlohJvlJILHpcSZoSGfGALAx0IGga3AxoCDxMd
+DxoZzA/NwwbKHRYAHRoLCxIaCB0T0Q8D0eAPArcEPwYdAtji3sTVkdoeCxQNDRLAHQYGCfzgAbDA
+rAOHW2IGVSgkYo+YBRg6FIjQbgGBBwUKfGOQsQODjwUCRBDwUYCBAh06/wwA4ACjMJAZGQgLuc3k
+RwsWAngEKZIkA5PYAHjAhsBBAwQGHHyEcODZR44BDKRBmYEMr4aHwix4VoAChWIYHgRAgK0AAJ1m
+AQBAEEFBgAAEThp8UDQCyrVq1d5FcAuYgQwhAUvMy9YtXAMMEgzwi8NB2QBmM3DNG2DCBgQFMghN
+ePWDQ61cIyBI0ACD6K0dAnjQ+QACBAtsI0i4kOBGB2wEFNgF5xrCLZ0ZEC4IAKEDBAEIWLuGHUE2
+7RsbJACQcKBxhgQBtiV/1vo1AgIkLqi1urDXw9AIBCQICwC1ap0CFCgQEOArRQEdEUgwoBulBPmO
+rdZBcFksgFkGxR0An/989NnXgQMhDTBBVBgE4IAD16lmDwDPxDcfZgFI4AMGYyjEkGdZ/cLVA4AZ
+QMFpz7znUUZvUTAAAwMkcNZM/eyGAFRCAYeQBw4QUACOcnEUUn035kgWcBIh0IAD3yCQhQIWOEUj
+BhIcyYAB6NhRHla+fIFaASwGEFEE7cUoYFoGtpWRATkNWEAwFFClFkJCFngABdvJBWdhc14wHAUQ
+XBAASxCSto0GWQ7WHjYrFQDBYpyNiWKZXpz5wCAFuMiXmzpp0JtpjqkpzICYJZAnOKZeKiCBGxpE
+WwMoxQoBqmdFNEgwBKh1YQHgXcBBatjoGsABCVygQQJ8iXniZ78AcMPhSgZ+N6kCVqbnIZUEaAZA
+AQpkoEB7AWRgJCwAaneucOlKYGNG7CoArrjkBptedgBgACoG0WHmLYCQCSBbckN+YaJ5Wp2FAFnb
+vLXNWUKNm1FGyUV7Vkh8DTfWxRlVPNYWFnNEFsgajXWLwwaqvMBaL1+8KGYyr3UkTeRNm+Iv22xT
+oHBDvrxnzz8T3fPEQ//MhdB9Cd0e0fb4DLXPG7YXdV4+Y03GwmQG4vXXYIPRGbVhl212H1xTofba
+bLft9ttwxy333HTXbffdeOet99589+3334AHLvjghBdu+OGIHx4CADs=
+
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.networkclue.com/images/tabs/osON.gif
+
+R0lGODlhjAAYAMQfAKmckYV2aJGEeLWvqVlCLfTy8ZuRiHdmVkUvG2xaS8zIxWRMNjAvLzEjFVU6
+IeTj4Vo+I9HMx31zaq+mn8K8t0I6M0MzJNvY1FxSR3lgSNnSzLy8vFA3H////19BJf///yH5BAEA
+AB8ALAAAAACMABgAAAX/4Cd2xbWdaKqubOu+cCzPtDthQyeKQ1E8l6Dwoikaj8ikcslsOp/QqFRD
+WTQuuw9GcHBwvmCOZ0wum8/otHrNbrvfcM+C0GBkGYZDZs/vx/+AgYKDaxUMDzsMBwRhjWKEkJGS
+kgSGiCJ4en18k52en22VDFiYi45foKmqn6KXH5mbm2ULAAILHhAAugYLEAK6uhIJwAIJZAICHsPA
+AMMJBwZjucYeAbrUZBm6GRAGAccBvgC8ucwHv8ASB81jtMbaABJxoqSvpqeouAA/PwsOHRci+CAQ
+4YGCCAq4FDhI4paDBwUcZEDY4WCCDuswevh3AMKEAgULYEvwA+KwArcW/2AEALAEB4Q/IggoeDAh
+SwMQfGFcULLDtzetEuWJtadMhg4SGlh4MAFBBwwNEBSQoMBAg6gIMii46rQjSZEcEDToEHVsAgMd
+IkDggPHA06gXAEDQt/WKAQsFADiIQAHBhaQVOiQQWzVqYaxoKTiAkOPchasUJsx1Qy/RPUdkcm1F
+gODABaeDETygagABmAMKTOPtaODEBC9OETgAbeABRtoUGoRNkGCug9oEEBDAgMCAyA7BFQyYjQF2
+Vc7PwdTu8OXBgwQBHhAnkMABUEtCNRHNsJGCAQ4QHFwcy2VChwoKHkSYn+HAAwATIJq+IEDCA++x
+ecDWWQpMEAFo5nGwwP8BB/S2EQEFpCXBF3g9MAACFgRAwgDdCViVF/HNFwGBDxywgEEJVGCbTOh9
+N4pljOAjBgcDGOBdemR1oOMFATSgQFUG8HLAQj9YwAEBSEkgmIDUeUCbAoFpmMCHbqU1FwQYCnBB
+BwJgiRYjs1WwD0oe2sjBj0HyYoByBggwgAIHYCjBlpK56AosRJHxm2K4+DcWVFgdZtqUDVRQgAAO
+CKCjjl2yhQCTBDYwgG1nUXBkAgIocGMxVwEQgQPqdYAABLSIJRpOZ5opaHEKUEUBVecccJWW3lFm
+SD2KxIjZGA5goNECFOQmmGkgngeqA6hxZhwBAwBwlQEXzNbkgGsKFyH/doKFlakYjFmKAFXoXfTo
+PwGExd9aH6bKAagcrBlYARYokMAE3nr2SCjgYTLUeORhyRIFPljQ1WRnyjffBKhRWIBxcSLg6wJs
+ifFkWGgN1sMAWwIghgNKXpCDAOi5NeM+AwhEALqqGhzBBGs2AEQDI3bcw3ku4nrZKbxaIAEFAARX
+XC9jcBBAmt4QUC6W0BjrZQLtzmgAd+VyYAEvclIwQJw3dvamALKRSjMEDWQ6AAYWrBVAF0ITHQB2
+ncUZQHAHbC2bneGNV8ZaYkWVnmmTzcYVZ1/4xplpQRO77kaqHR4WemFx1SLijucU1o2N671RWHv/
+DXhYRoKRN981w4iPXhnpgXplTneXjh7q0pguTU6w4wL7ZLGXvhjpXtwuO+3HTib767kvNvvwufuO
+7yFXzSpenqs07/wflVxFRgM37/r89di/0cC+sWTv/fdqUK9rI+CXb/72y3dv/vrNhwAAOw==
+
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.networkclue.com/images/tabs/routing.gif
+
+R0lGODlhigAYAMQfAGl4h1ppd4+Zopmiq4OSoPT09ejq62Rwe09cZ6essaGnrXCDlaixuN7f4EJN
+V8zP0rW+x9DT1bzDyn6Ll3qEjdPW2S8wMbK4vXSHmtjc321/j7y8vN/j6P///3aKnf///yH5BAEA
+AB8ALAAAAACKABgAAAX/4Cd2RbWdaKqubOu+cCzPNKsgSSeKSVEYnKBwSCwaj8ikcslsOosVgCWy
++yAgCo92y+16v+CweEwum89gisNStSgI6Lh8Tq/LDxbDzjKA2/+AgYJfE3gNe31jGAMQjQwTWwQQ
+jxiSGB4YDAMMjY4EDAsMAlqflwQXk5dbixB+WhidjQutjI1vmbGMBJetlxIYsAPAm6qWcYaIrmAL
+FyUVHRwLCw8dDR0ZGgIdAB4aGQwXFQYGFa0ZABkGCxgC2Bg/FQW/WxMd4gtbANUV/AcdnyWscUBH
+jp8ADqAGdAAlwACAeg+kXcCGSRu3M4UsHBLhRtkXDQkeOHCA4J+CAgBI/xZIUO+ABwAVbjgYMIAk
+hQoBqA1YQKDCgQcSRvrD52HBgAglL3rwd2AkgpIUFIh04C9AhJokEWy4AIBBgQddHxxQYAAlyChF
+Wx7TmGwMgARIDyR9kABBABwRNHQI8DKCggABFPx9WAHBg3QPIwTYhkCuAgCXFuh9oMCllsUADgAA
+gFkBUsAdEPgNoPlAT6tkc/6tMKGAgLcRuC2gsBdNxo0fOrpNYICBhLIO/B7AAICCw9oAIiQAoIHB
+8gUTCkc4UGBA9MUIFgggMEFDZOqhNWxZ3CDDt869fyONQM48AQAFEBRwsLcBhaoXJByAK5s2XzTI
+cJSIGBqcFEEBHDylHP83GlBQQFVLKadBVwwAAF1hPg1gwE1VedNBBwJEVt5KGfix2AUKJEBAZwUc
+KJJoDwyQogZQzWffXgSg1EMAcLk0W20YBZjbG7u9CGIA4MjmGX3cJDcAcwlUeCECFVAg3wYR0Pde
+Zg1MgA9tDmiD0iWLNdVYZw9Y4M8EVtX0FGcR5IcAAxFkgIAEH34IUmxF+bcWbnx45MVbDzy1owAF
+ADNBAwLQJ8wBG07IgJTRUWmlQutFIZcBXmJAGwIOFJCBZYtRwNwCnSFlGE7CnXoAAx3cgOgGCBjQ
+lAUPoMjnj/+ZcdseRIoBm2aLDSBaBwc2AJhXD/wQwAJdJaDBlKzJ9VX/Ywiyh9I6ARjQQDwLkdkB
+BUSleoBm47JnXgYSAEBABxqg+1podzU0QAnm0VaBeSGWIWSgYzT4GqoECFCvcoABgMAAdJGGgQYT
+dCeZwQJooEEAFBBwwF1w1TUcBnIlIAECGYs3loVajHUABQMjIEDEMgo2wLkDBHDxXxTU/PDJNKUY
+QM8JAEPGrxwFG8YCG4vHWQCZgerAs0g7/WxRma2T2bmQXWzzxVKLV9RdWR2AD2eQabE0YN4t/VRW
+Nm8M2dJuFyXX2k+B/aYqY/w7YBgYSHNJ3+tIdqoWgk/7yjqRBY4P4JFtZvgWhfuNiTSrSCP5wxYz
+t5nii1u+zisWZz6tQuhEjUH0kIIOovrqrIehd+qtxy57IKdXYfvtuOeu++689+7778AHL/zwxBdv
+/PHIJ6/88sw37/zz0Ecv/fTUV898CAA7
+
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.networkclue.com/images/tabs/hardware.gif
+
+R0lGODlhWwAYAMQfAGh4h1hmdJmjrI6YoIGLlPT19aGmq2Vwe+jp6k5aZd3e4HqDjC8wMT9JUrrC
+ydDT1c7Q0qmxuHmKmm+BkrW+xqGqsrO4vcTIzNPW2YGTo3SHmry8vN/j6P///3aKnf///yH5BAEA
+AB8ALAAAAABbABgAAAX/4Cd2BbadaKqubOu+cHwaSdSJYlQUCOf/wKBwSCwaj0gOBsB44D4JSsVD
+rVqv2Kx2y+16qRJJg/FkCDLftHrNxkoODATOjG7b73gwXDGv1LkZERoeGg5oGhEVgxkUjREZGoyN
+AhqFEpEOlxkOlYaEAo1SlxGhFJRfbwx8InRdGgMKEx4AHQMaEzwTrx0YGDsSAyUFHQ4ABQMTNgLJ
+SwLEExMWJQodHAAYCL0Yy6h7fX9aExlLHgcdBOII5xMEHQ3vCBUEEO/t1xUAFwURAA4WBxYUIAAw
+oQK9BuYOPBDwLsEBWV5SrfrQigs7cuYWALBgAQK+BR0cJlAgYMGDBAEa/xQgYMBBAAQGHgTAQOAl
+yAkAKpw8EKBDgAcGAgAgOCiiN1Z+urCbhqHDggMICMACAJIUhwIBFizRoNCA1p4JQnY4ALKBAnwV
+EERwgABCggfZFCiw1U3VnDNKCSAQYMAZAVoL2k0ACUFdgAAEMALtSeCBymABDCjYqOBAhQIPMDdI
+AAGCAQOKinaR+C0vvQQNnDrrwLqkuwYI/iUGMItkggIWInCGcCFBU9YdABigx1ghwwQJAIjmQpoV
+XouNhfZccGHAmJggkQturDzD2AAQzkXuEDTkmL3DkUPg8NPAAaJpmlNMCh2j0+CHQYJ8mACBgwXT
+dHBBAAc4cwBZwQ2AALxKCVhwQUwHAgYXBnJxUtdEFW0BzQC0HeBeUNBE5uEBXOXkIV8DJAdAgQFM
+EFlWA5A4lAEAcOjiAAQQwBdo3BhlF1LgZKHBirIAcJhQlRh5GG0uHoYccg9xhaSRB7bowQQ8HaaL
+kk8iZ6WPGD7HxS2D3AJNUWbqQgg00AylppmVpPkmm3O2ORR8YJaWx558jnYURWL2Keig8j1h6KGI
+Jqrooow26uijkEYq6aSUVmrppZhmqummnHbqKaYhAAA7
+
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.networkclue.com/images/tabs/utilities.gif
+
+R0lGODlhUgAYAMQfAO7v8HCDlZijrltqeIKNl5GXnWxxdqassmNzg01ZZKGnrGp8jNDT1i8vL0VQ
+Wt/f37W+xqexutPW2XuFjnN8hrK4vs3P0oCSo9jc37vDyjtFT7y8vN/j6P///3aKnf///yH5BAEA
+AB8ALAAAAABSABgAAAX/4Cd2gLSdaKqubOu+sKokRyeKB9BxfO//wKBwSCz+JJQG4/ZJQA6eqHRK
+rVqv2Ky2GnA0mA3BZUsum89SQ4NzC4/R8Dhc/Wgr3llBJBrIXCCAgAKDFxkBUhF6gYCFARGLAh5/
+EJFodG1iWgEVGAseCx0EEhIADxICFRUXHZ6fGBEVpCUSBB0IpKOnHgC8HZVmlyJuWgsHEggeCB0U
+CRoWBg40BxO2UbczDgUWGgkUHQkMAhrRAwIAGhoVhmfBH8NZxQzIAx0TCOAUCAgHB94D1gwUDBig
+gEECBNTACdSHgAAACgMptCrT7h2WePPqBbhFIMCCCP06/EvG4MACjAES/zIogQHDhQEPdghAcAhY
+gzrCMsE7IM8DvQkbaXnk5w+gSZQJLVhQoGDagAQTMHRYZxOnO50XJzzISCFox48hRyIoeZInTZUF
+oh08QKBZAQATyVTEeiVlh0P+vA4Na7SsPLvgDgxY4JETggETOCCriglP3QEYAFiY+o+jR5DeJLSc
+QBbpt5UtMSigAIADBAAVFlO82XgLAgM8CyTwhKBA1wUEJpQT0LT2hJMTCtBEMINAAaZsu1VgIDvu
+lrmOHzuIRvMTAsIbDydQO5DmxgEBvmtPQF7fgOkHa662ajGLx5Pqw/MJfxK7fA/3w9Ovr3/B9Tms
+5RSdHAQWSAV0BiaooCQH7TDh4IMQRijhhBRWaOGFGGao4YYcdujhhyCGKOKIJJYIYQgAOw==
+
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.networkclue.com/images/shim.gif
+
+R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.networkclue.com/images/bulletinboard-side.gif
+
+R0lGODlhfgAfANUAAHd3eMvT2oiWo66xubS8wlhYWJykreLm6puptNjY2MLDxNzh5tHS04yQleLi
+4pWcpdfd4nqKm+zu8YOEhaSmrLGxsrq7u+np6YiMkWNjY93d3aers3uEjM7Ozufq7nR9htHY3pqc
+nbzEzKGhppSUlWdpa0dHR/T296mqq3BxcsXJzIqLjcTL0PDy9Nja3LS1uLC8x7nDzai1wb/I0aCu
+u/j5+sXO1vv8/P7+/pintpGhsIqbq4SWp3+Ro2xsbP///yH5BAAAAAAALAAAAAB+AB8AAAb/QJ9w
+SCwaj8ikcslsOp/Hn3RKrVqv2Kx2y+16v1QheEwum89dMXrNbrun6mxL4aAANLi3fo+OW3EXKA4S
+LSkrJ3yJimk+chUOFxokJhMXi5eYYT44nJ2cNQoaCR0ZBSkhF56qq6ytrq+wsbKzrEI3t7i3Fyo/
+GhkZLwkKCjW5xsfIycrLzM3Oz8dCNdPU0y4rHS8mFQmiChYS1eLj5OXm5+jp6uviQifv8O8MEwUF
+GQkOGi6jFS4t8QDjGQkIz507gid8vDuIMGGRhhADMkQopIXFixZdhEhRogSJbvoSMLCgQIIEBqEI
+YbRYkaWPlRcrtoQ5EybNly5t6txZ06YQ/5NAge5CMWLEChQg9yWw0GDEBBMAKLgIavJnVR8SrP7c
+ijXrEK9cvYoNanUsEaBnwXYNS5WqEA9w48Y94KKuBQwvXGjQ4MDCBAsW6mUIoeCAXA9v4b5NvNgH
+YseMITt+/Fiy3MSUIyOO25iz5MmHL/s4QLq06dIQXkwIJYqChQr2CvhoYGHBaSOkheQerbv36AO+
+dwP/rbs07uHCdwdPXvy0aSELokufPj0AigkMOkwQ9isDgAkNVFBfAD069PLnfZBXb2S9efbq3Usv
+7x59/PTy5dMf/x6C//8ABshCCCSQoEAFJDSQQQoTTDAACAFCIMR/E04ooQ8XZmghhRhq2P/hhhn6
+V+GHGFo4IocidhghhyC06OKLMAYQwwoflbLCCAAAEMIMMLYohIs/BikkCEMS6YORPh75I5JAHpkk
+k0UWieQQPcIoRABYZqnllgEMiEIpGZRAwQgYEMAllkZkeeWaPgRwpZtDqNkmm2i2KScRd9oJZ5xv
+1gnnmVoKYcOghBZqqA0iTFCKbBOkgAEFBLBw6KSUVmrppZhmqumhQszg6aeghjoDARgUYEIBEwCQ
+AgcPbDCAqLDGKuustNZq662iChHDrrz26msMMjTAEQA+fGCAARg8MMAGvzbr7LPQRivttNT6KgQM
+2Gar7bYwBKtqCRwY0K0BHDQwgLjcpqvW7rrstuvuu/BmK4QM9NZr7730PvDBBz0gYO8DHOD1AL4E
+F2zwwQgnrPDC9QpBw8MQRyzxwwjooAMCE+/wAQcDPDDxxyCHLPLIJJds8sNC5KDyyiy37PLLAuy7
+wQMv12zzzTjnrPPOLwth8c9ABy300Bb3sDEFOxCt9NJMN+30004LscPUVFdt9dVYTx3BvgIIkPXX
+YIct9thkiy0ED2inrfbabLeNdg89cBBBD27XbffdeOetN95CwO3334AHLnjgcw9u+OGIJ6744olD
+4fjjkEcuORRBAAA7
+
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.networkclue.com/images/120x20_su_blue.gif
+
+R0lGODlheAAUAPf/AN3p9dft1F6YzGWe0X2u4FeZ0eDs9WCazlq4eXu10JW84oe25SalVXKn2aLW
+pAh7pK7J5fX4/Gig06zM7LfT8UuSp4y56eTz7DGRuOzy+WGVzHWp236w4JrC62uj1Ym455K53WmO
+l26l1sTY66zG40ONy6LE48Pc6X2m0bbR68vl4ZvB56DF6ou56UySzTJqcz6KymybzA2ZQoOx3LPO
+6FiQxv//6oGq1MXb8cje8YGx4nuq1VqRyBeDrHzJlNjm83ir3Hut3luOxMrb7ZS+6dXi8U63boGy
+4rDL5oa25VaNxW2i1arDytTh74mx2Zy73cHg2wZFVc3g8Wmd0zCmWvv99X6t3Ia25nuu3ur08KbJ
+7XCl1wVqhoGv2p7Vs/P988LX64u66YS04w5QYMDX7XStw5q+4FuWynqjztXl9Yat1wKRNVSSyIS0
+5IGy5K7S5Ym46LrR6WWYzFqDjKjatlSKwo+642Wbz2ul2wBolHmq2drw4TutZYq3416Yy12mxwR0
+mNDi8l6XzGKbz1yUyo623UOwaHis3Ya15dfk8nek1HOfzrvV7U2ycHaZo12RyHWizom353aq3IvA
+3I234nKj1W2i0Ymu1rnS7HGl0r3U6YKz41OIwl6WyqrXwY244Iyy23Sm2Ym02luTye7674Cx4DmH
+yVCGwDaGyDSEx4Kt1mSUxpS12l6Vy1eLxFmUyFyWy4O05FmUyViUyFyWylyXyoa15liUyYSz5FyX
+y12Xy4Sz44O044Oq1VyUyV2Wy4ar03ys2LvN04i138/g71W0cHio02u/fpC86KfD4ZC7ybPGzb3Q
+2Iy22n+n0563u5/B36/bsFmOx1qXzQ1pfidfa2Kh2Rl1jsDN0tLk9uXv+F+ZzafI6Het4LDP71u/
+gHGw0X662pCy1tTl+YCp0lmVyYes1L/Y8Pj8/YKy4b/T6Xut2o7Mpo7SoI/Mm5fQq9Lp7t7t5uHx
+5aG/4B6gT1SJxFSLw3Cj2M7d52+h0IWx2Hej0XSm1DOEx////wAAACH5BAEAAP8ALAAAAAB4ABQA
+AAj/AP8J7EewoMFUpkyVcOGigMMCLkrAMIUqlcGLGDNq3Mixo8ePBQWK7IfHTYswYSygbGEBGZEO
+LLR4o0DT2wQtHYggC4PsJMowLfpZaOHzJ9GTPo+y/GmU6FCkTZcuTQk0JVGUFlQWnQoVKcuhcLpZ
+6zfSTSQ4HyJF+pD2Q8sOMs/lyJZmXKAcFCaw0BlG7doPQeHA8ctWbVu/g9cOLrwWMdvCaBUTRps2
+8ePDjRmfXZzY8ONIeMiStJUkCSJbtq4sSPIBGVwKOaC840OFCgJPgXB422th9ZXSQa/8RnTl9IIF
+qE3/XvC7dOkrpG0x/41aumnTtognES78NKLjwkl3/99eGlGS1M+ZnzeeBLytAghj4cLVBpcY+fT7
+EGFBQYonPvTURo8Ma7CjTQ7erIDMAojgIl9Q9bXBSxuxtLGLfLHcF8uEu9QnX4fztWGhfbhs4iCF
+JdIXy4b0RXjhihSuiGGI8onRxn30ObgifTbGuEE/JZSiw5BHDKnDEZv0scIEUngRIAIIFMMHA2s0
+coEB52ihwAKbHHlEUEQWecSYRQ6JDAt2lEKmmGOGKeaRROqAzAqlCKlDHyxwYKSXa+KpJ5wLsICI
+kG2+aSSZh/QDAweMNtroEXawwIgKDBTjQDSYutPIGt/Egw0xKazQhw6NBuXoqRyIIYU/rGpjRRAp
+pP8BBAGo1soBAQYAEEoQjK7gjwKz3orqOb8OA8AKQfiKyQa82uqoJIpiIS0WQVQbBBal2MFNDj4Y
+socB8BiQQRV00PPNBSEsQwYLlJRCbRBBWXtttdIGwY0/xKgBgT9x3AMAAFPsei21BL9bbxAA/HDH
+rlj4CsoSQBxMbxCM+OMECP4Uco8Z/iAxhSQFy0vwtQ0oesjJhwChMhCHcGDHBNlQQYc/4WCAwR/j
+kGIIAqSEEEIO3HzCQcpABEU0yyurTIM/JGggxwgQIMFqIktvsYE/mFDiTwb+REBGBuik0AAAEXAN
+gB4K+KPGFIyATUYwGxCNiT+9sGpx2k2HkvTeKx//UjIMGwQuuOBWvJwGPV6g88YfPeQxSRVG8BzC
+C4EEHYTgQQ2u+QYzGMAqMclooEiui+yrwRIdg7L1PKxCkEgEcvzgjzokdFwI3RgjsW8ySzQQ+Ny9
+JOPPE3LcDooGVm++OR6pwNDA89BDv84nE6QhAxXvBFDFGz1MQgoDfHzhyAtSBA0E9EFFr34DW1Ty
+xBAR8Bt7Ea7sK80UTKviTzKcFJEBJ7XrxQ8icAppRKAIaqDbCPxRhCJEAACne14K/OGMBKLgEZWg
+mwZEsL4OekBRIgihCLawBRHqYRjcCEQjjHAMB9hAGxgARxV80A5/zGEOQzDBMDYQwi0ERYRAFCEZ
+/7TRilFooAj+GMUPiqAEqbniDkyrGwqkscR67MsZiTAAJzSQgSGQg4JIbIIYmyCNAZRwaRWkYCsk
+4I8bnC6IIiyhCCWgKA/Y8Y53bMAMTICDeOxhD/LIwiQAgYETfAEdTBjDMxhhhi5s4Y5BweMS7jjJ
+pZFgByDIQAbqkAgAxEBqi+BYMr6IAiXST2ooQOIlnOAPVjjDHyhgHRqEkAEA2OMOdlwaCvTHCjls
+AQn7WKMdlzBJPOJxAIqSgDKXucwlBEMBKQAAOMIRDsY94AEYSEAZxvACfCChEHrwwDKDwsxySsAS
+nmNVBIDBCTD4AwA3sFsEkvFKFPAgEUWow77QgP9EVhlACPFEQQzS6Q802GMQylwaGmLAqlUybRQD
+MKdEB9EPUwzgohjFqAT4IQoT5KAMebhmD0b6AC5EIQrYIEMjMyEBjAYlozAdwB0IgQJxAMMVp6jB
+HciBhjrEwByriMEqNHCDR4xiB5CwRz5uIARILAINaDhFHeSgikfUYBSLMIcQcjqIi/KDqTwwBgrk
+QNUY8KCrMY3pASo6iLa61a0DsMQOCoEEKYAUENcEBBfGUA0mjMAEouCHBN4alLcatq0H8IUS7KEE
+HvhhG4SoAQ/OwAMlKOGqhODBLwQxilEIwhc8GEVlLTsKAXRiFK34bA0aK4gDtBWyPEgtD2rgi8z/
+EsK1hz3sNAhyi2349re/jWswQICEEyijAteghnIdwQxNANYYgwVuUIBL3d8KIBe0+MVjt+EHXejC
+DwLwrh/AC14BjFcA4R2vd3MhgG2gt73h1UV7gRte9HbXvPKtrn4F4AKylIAQtKgFLAJMC1jAYhuD
+yIcxmgENGoBBCoEgBj40AQEF6IMfA5BDLmCx4Vrkoh+0yIWIC9zhM+TCwxvmcC0CbOAV16IWZxjw
+gE8MCwFzGLsqPgOBPVxjA9e4wzzWcY1tTAsCFznEZziDh9lAFoHAgA1smMUrZCGLV1iZFtsYQCZU
+0QwQmAEa0DADCPRhjHzcwQ9nmMUtbmFlWUi5WcpVLscs5izlOt9Cyq+YBZXzfAtZsJnKa+bzK9ic
+5yoPGtCDVnOe61zlOw+6HI7es5upXOU3v4INJWjySDSSClQoZCEOscYBHBKRiaACJKhOtapXnZFU
+iCQgADs=
+
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://images.del.icio.us/static/img/delicious.small.gif
+
+R0lGODlhCgAKAJEAAAAAAP///zJ00NPS0iH5BAAAAAAALAAAAAAKAAoAAAIXjC2Zhyoc3GMSSoDx
+2DtrPngAGHqkSBYAOw==
+
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.networkclue.com/images/dottriangle.gif
+
+R0lGODlhCAAMAIAAAK6CbP///yH5BAAAAAAALAAAAAAIAAwAAAIOjI+pywigXpOJBntwCwUAOw==
+
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.networkclue.com/os/includes/tabbg.gif
+
+R0lGODlhAQArAJEAAAAAAP///19BJQAAACH5BAAAAAAALAAAAAABACsAAAIIjI+JIO0PYysAOw==
+
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: application/x-css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.networkclue.com/includes/stylesheet.css
+
+BODY {
+	SCROLLBAR-ARROW-COLOR: #6e7e88; SCROLLBAR-FACE-COLOR: #e7e7e6; =
+FONT-STYLE: normal; SCROLLBAR-DARKSHADOW-COLOR: #e7e7e6; FONT-FAMILY: =
+Arial, Helvetica, sans-serif; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; COLOR: =
+#000000; SCROLLBAR-SHADOW-COLOR: #687888; FONT-SIZE: 10pt; FONT-WEIGHT: =
+normal; SCROLLBAR-TRACK-COLOR: #bcbfc0; SCROLLBAR-3DLIGHT-COLOR: #687888
+}
+P {
+	SCROLLBAR-ARROW-COLOR: #6e7e88; SCROLLBAR-FACE-COLOR: #e7e7e6; =
+FONT-STYLE: normal; SCROLLBAR-DARKSHADOW-COLOR: #e7e7e6; FONT-FAMILY: =
+Arial, Helvetica, sans-serif; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; COLOR: =
+#000000; SCROLLBAR-SHADOW-COLOR: #687888; FONT-SIZE: 10pt; FONT-WEIGHT: =
+normal; SCROLLBAR-TRACK-COLOR: #bcbfc0; SCROLLBAR-3DLIGHT-COLOR: #687888
+}
+P.clue {
+	FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =
+#990000; FONT-SIZE: 10pt; FONT-WEIGHT: normal
+}
+OL.clue {
+	FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =
+#990000; FONT-SIZE: 10pt; FONT-WEIGHT: normal
+}
+UL.clue {
+	FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =
+#990000; FONT-SIZE: 10pt; FONT-WEIGHT: normal
+}
+P.code {
+	FONT-STYLE: normal; FONT-FAMILY: serif, courier; COLOR: #aa1111; =
+FONT-SIZE: 9pt; FONT-WEIGHT: normal
+}
+P.note {
+	FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =
+#000000; FONT-SIZE: 8pt; FONT-WEIGHT: normal
+}
+DD {
+	FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =
+#000000; FONT-SIZE: 8pt; FONT-WEIGHT: normal
+}
+DT {
+	FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =
+#000000; FONT-SIZE: 8pt; FONT-WEIGHT: normal
+}
+TD {
+	FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =
+#000000; FONT-SIZE: 10pt; FONT-WEIGHT: normal
+}
+DIV {
+	SCROLLBAR-ARROW-COLOR: #000000; SCROLLBAR-FACE-COLOR: #0d467e; =
+SCROLLBAR-DARKSHADOW-COLOR: #4f85ba; SCROLLBAR-HIGHLIGHT-COLOR: #4f85ba; =
+SCROLLBAR-SHADOW-COLOR: #0d467e; SCROLLBAR-TRACK-COLOR: #4f85ba; =
+SCROLLBAR-3DLIGHT-COLOR: #0d467e
+}
+DIV.body {
+	PADDING-BOTTOM: 24px; PADDING-LEFT: 24px; PADDING-RIGHT: 16px; =
+PADDING-TOP: 16px
+}
+DIV.navpath {
+	BORDER-BOTTOM: black 1px solid; BORDER-LEFT: 0px; PADDING-BOTTOM: 3px; =
+BACKGROUND-COLOR: #e6e6e6; FONT-STYLE: normal; PADDING-LEFT: 24px; =
+PADDING-RIGHT: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: =
+24px; COLOR: #6c6c6c; FONT-SIZE: 10pt; BORDER-TOP: black 1px solid; =
+FONT-WEIGHT: normal; BORDER-RIGHT: 0px; PADDING-TOP: 4px
+}
+PRE {
+	BORDER-BOTTOM: black 1px solid; BORDER-LEFT: black 1px solid; =
+PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #e6e6e6; FONT-STYLE: normal; =
+PADDING-LEFT: 3px; PADDING-RIGHT: 3px; COLOR: #5c5c5c; FONT-SIZE: 8pt; =
+BORDER-TOP: black 1px solid; FONT-WEIGHT: normal; BORDER-RIGHT: black =
+1px solid; PADDING-TOP: 5px
+}
+A.navpath {
+	FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =
+#6c6c6c; FONT-SIZE: 10pt; FONT-WEIGHT: normal
+}
+.head {
+	FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =
+#6c6c6c; FONT-SIZE: 10pt; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.menu {
+	FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =
+#000000; FONT-SIZE: 10pt; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+A.menu:visited {
+	FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =
+#000000; FONT-SIZE: 10pt; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+A.menu:hover {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #111111; FONT-SIZE: =
+9pt; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.menu:active {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #111111; FONT-SIZE: =
+9pt; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A.menu:hover:visited {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #111111; FONT-SIZE: =
+9pt; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: application/x-css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.networkclue.com/os/includes/colors.css
+
+H1 {
+	FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =
+#5f4125; FONT-SIZE: 18px; FONT-WEIGHT: bold
+}
+H2 {
+	FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =
+#47301b; FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+H3 {
+	FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =
+#2f2012; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+H4 {
+	FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =
+#000000; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+H5 {
+	FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: =
+#000000; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+TD.sectioncolor {
+	BACKGROUND-COLOR: #5f4125
+}
+DIV.menu {
+	BORDER-BOTTOM: #000000 1px outset; BORDER-LEFT: 0px; PADDING-BOTTOM: =
+3px; BACKGROUND-COLOR: transparent; MARGIN-TOP: -1px; PADDING-LEFT: =
+12px; PADDING-RIGHT: 0px; HEIGHT: 24px; COLOR: #cfbfb0; BORDER-TOP: =
+#000000 1px outset; CURSOR: hand; BORDER-RIGHT: 0px; TEXT-DECORATION: =
+none; PADDING-TOP: 4px
+}
+DIV.submenu {
+	BORDER-BOTTOM: black 1px solid; PADDING-BOTTOM: 12px; BACKGROUND-COLOR: =
+#7c634c; PADDING-LEFT: 12px; PADDING-RIGHT: 0px; COLOR: #000000; =
+PADDING-TOP: 4px
+}
+
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: application/x-js
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://digg.com/tools/diggthis.js
+
+if(!window.__DBW){var __DBW=3D(function(){var =
+M=3D{api:"http://widgets.digg.com/buttons/count?url=3D",analytics:"http:/=
+/a.digg.com/",css:"http://widgets.digg.com/css/buttonb.css",popup:"http:/=
+/digg.com/tools/diggthis/",submit:"http://digg.com/submit?"},W=3D{impress=
+ion:5,click:100},O=3D{source:"source",submitted:"submitted",event:"event"=
+,diggs:"diggs",storyId:"storyId",buttons:"buttons"},G=3Dtrue,d,f,b=3D{},c=
+=3Dfunction(i,j){var =
+k,h=3DparseInt(j.diggs),g=3Di.firstChild.firstChild.firstChild.firstChild=
+;=0A=
+if(h>9999){h=3DMath.floor(data.diggs/1000)+"K"}else{if(h>999){k=3D(h+=3D"=
+").charAt(0);h=3Dh.replace(k,k+",")}}g.appendChild(document.createTextNod=
+e(h));=0A=
+g.nextSibling.appendChild(document.createTextNode(h=3D=3D1?"digg":"diggs"=
+));if(j.id){i.firstChild.firstChild.className=3D"db-container"=0A=
+}},F=3Dfunction(k){var =
+g=3Dd.cloneNode(true),j=3DD(k),l=3D{},m,i;g.className+=3D" =
+db-"+j;g.getElementsByTagName("SPAN")[2].className+=3D" db-"+j;=0A=
+m=3DL(k);if(m.style=3D=3D=3Dfalse){g.className=3D"db-clean"}function =
+h(){for(var n in l){return n}}g.firstChild.onclick=3Dfunction(){var =
+o,n=3Dthis.firstChild;=0A=
+n.className=3D"db-container =
+db-dugg";if(!i){n=3Dn.firstChild.firstChild;if(f.ie){e(n)}else{Y(n,0,func=
+tion(){e(n);=0A=
+setTimeout(function(){Y(n,100)},175)})}i=3D1}if(h()){U(l,"click")}else{se=
+tTimeout(function(){U(l,"click")=0A=
+},1000)}Q(m,l)};k.parentNode.replaceChild(g,k);b[m.url]=3Db[m.url]||[];b[=
+m.url].push(function(n){if(!h()){l=3Dn;=0A=
+U(n,"impression");c(g,n)}});a(m.url)},H=3Dfunction(){var =
+h=3Ddocument.createElement("link"),g=3Ddocument.getElementsByTagName("hea=
+d")[0]||document.documentElement,i=3Dg.firstChild;=0A=
+h.setAttribute("rel","stylesheet");h.setAttribute("type","text/css");h.se=
+tAttribute("href",M.css);i?g.insertBefore(h,i):g.appendChild(h);=0A=
+H=3D0},Y=3Dfunction(k,i,n){var =
+j,l,n,m=3Dfunction(){j=3Di?5:-5;l=3Di?0:100;h(l);setTimeout(g,15)},h=3Dfu=
+nction(o){l=3Do;=0A=
+k.style.opacity=3D(o/100);k.style.filter=3D"alpha(opacity=3D"+o+")"},g=3D=
+function(){if(l=3D=3Di){n&&n()}else{h(l+j);=0A=
+setTimeout(g,15)}};m()},V=3Dfunction(j){var =
+g=3Ddocument.createElement("script"),h=3Ddocument.getElementsByTagName("h=
+ead")[0]||document.documentElement,i=3Dh.firstChild;=0A=
+g.setAttribute("type","text/javascript");g.setAttribute("async","true");g=
+.setAttribute("src",j);i?h.insertBefore(g,i):h.appendChild(g)=0A=
+},a=3Dfunction(g){V(M.api+g)},D=3Dfunction(h){var g=3D"large",i=3D" =
+"+h.className+" ",k,j=3D"";if(i.match(/( DiggThisButtonMedium | =
+DiggMedium )/)){g=3D"medium"=0A=
+}else{if(i.match(/ DiggLarge /)){g=3D"large"}else{if(i.match(/ =
+DiggCompact /)){g=3D"compact"}else{if(i.match(/ DiggIcon /)){g=3D"digger"=0A=
+}}}}k=3Dh.getElementsByTagName("IMG");if(k[0]){j=3Dk[0].src}else{return =
+g}if(j.match(/diggThis\.(gif|png)/i)){return"large"=0A=
+}else{if(j.match(/diggThisMedium\.(gif|png)/i)){return"medium"}else{if(j.=
+match(/diggThisCompact\.(gif|png)/i)){return"compact"=0A=
+}else{if(j.match(/digg-guy-icon.(gif|png)/i)){return"digger"}else{if(j.ma=
+tch(/diggThisIcon.(gif|png)/i)){return"digger"=0A=
+}}}}}return g},e=3Dfunction(i){var =
+h=3Di.firstChild,g=3Dh.nodeValue;if(g.indexOf(",")>=3D0){h.nodeValue=3D+g=
+.replace(",","","g")+1=0A=
+}else{if(!g.match(/k/i)){g=3D+g+1;h.nodeValue=3Dg;if(g=3D=3D1){i.nextSibl=
+ing.firstChild.nodeValue=3D"digg"}else{i.nextSibling.firstChild.nodeValue=
+=3D"diggs"=0A=
+}}}},B,Q=3Dfunction(j,h){var =
+g=3D480,i;if(h.id){j.storyId=3Dh.id}if(j.related=3D=3D=3Dfalse){g=3D335}i=
+=3DM.popup+"confirm"+I(j);=0A=
+B=3Dwindow.open(i,"diggAction","status=3D0,toolbar=3D0,location=3D0,menub=
+ar=3D0,directories=3D0,resizable=3D0,scrollsbars=3D0,height=3D"+g+",width=
+=3D590")=0A=
+},R=3Dfunction(k){var =
+m,j,h,n=3D{},g=3Dk.indexOf("?");if(g>-1){k=3Dk.substr(g+1).replace("&amp;=
+","&","g").split("&");=0A=
+for(m=3D0,j=3Dk.length;m<j;m++){h=3Dk[m].split("=3D");n[h[0]]=3Dh[1]}}ret=
+urn n},L=3Dfunction(h){var j=3D{},g;if(h.href){j=3DR(h.href)=0A=
+}j.title=3Descape(unescape(j.url?j.title||"":document.title));j.url=3Desc=
+ape(unescape(j.url||location.href)).replace("+","%2b","g");=0A=
+j.related=3Dj.related||true;j.style=3Dj.style!=3D"no";if(h.rev){g=3Dh.rev=
+.split(",");if(g.length>1){j.rev=3Dg[0].replace("(","").replace(")","").r=
+eplace("'","","g");=0A=
+j.topic=3DZ(g[1])}}j.bodytext=3Dnull;var =
+i=3Dh.getElementsByTagName("span")[0];if(i){j.bodytext=3Di.innerHTML=0A=
+}return j},E=3Dfunction(){var =
+k,h,g,j,m,l,i;f=3Df||{ie:!!document.all,ie6:this.ie&&document.documentEle=
+ment.style&&"maxHeight" in document.documentElement.style};=0A=
+d=3Ddocument.createElement("SPAN");d.className=3D"db-wrapper =
+db-clear";k=3Ddocument.createElement("SPAN");if(f.ie){k.className=3D"db-i=
+e";=0A=
+if(f.ie6){k.className=3D"db-ie =
+db-ie6"}}h=3Ddocument.createElement("SPAN");h.className=3D"db-container =
+db-submit";=0A=
+g=3Ddocument.createElement("SPAN");g.className=3D"db-body";j=3Ddocument.c=
+reateElement("SPAN");j.className=3D"db-count";=0A=
+m=3Ddocument.createElement("SPAN");m.className=3D"db-copy";i=3Ddocument.c=
+reateElement("A");i.className=3D"db-anchor";=0A=
+d.appendChild(k);k.appendChild(h);h.appendChild(g);g.appendChild(j);g.app=
+endChild(m);g.appendChild(i);=0A=
+i.appendChild(document.createTextNode("digg"))},I=3Dfunction(h){var =
+g=3D[];for(prop in h){if(h[prop]!=3D=3Dnull){g.push(prop+"=3D"+h[prop])=0A=
+}}return"?"+g.join("&")},T=3Dfunction(h){var g;for(prop in =
+h){if(O[prop]){g=3Dh[prop];delete h[prop];h[O[prop]]=3Dg=0A=
+}}return h},U=3Dfunction(i,h){if(G){var =
+k=3D{source:"button",submitted:!!i.id,event:h,diggs:i.diggs,storyId:i.id|=
+|0,buttons:S},l=3DT(k),j=3DM.analytics+I(l),g=3DMath.floor(Math.random()*=
+100)+1;=0A=
+if(g<=3DW[h]){new Image().src=3Dj}}},Z=3Dfunction(g){return =
+g.replace(/^\s+|\s+$/g,"")},N,K,X,S=3D0,P,C=3Dfunction(){H&&H();=0A=
+d||E();P();if(!X){N=3DsetTimeout(C,750)}},A=3Dfunction(){var g=3D['<a =
+class=3D"DiggThisButton'];if(window.digg_skin=3D=3D"compact"){g.push(' =
+DiggCompact"')=0A=
+}else{if(window.digg_skin=3D=3D"icon"){g.push(' =
+DiggIcon"')}else{g.push('"')}}if(window.digg_title){g.push(' =
+href=3D"',M.submit,"url=3D",escape(digg_url||DIGG_URL||location.href).rep=
+lace("+","%2b","g"),"&title=3D",escape(digg_title),'"')=0A=
+}else{if(window.digg_url||window.DIGG_URL){g.push(' =
+href=3D"',M.submit,"url=3D",escape(digg_url||DIGG_URL).replace("+","%2b",=
+"g"),'"')=0A=
+}}if(window.digg_media&&window.digg_topic){g.push(' =
+rev=3D"',digg_media,", ",digg_topic,'"')}g.push(">");=0A=
+if(window.digg_bodytext){g.push("<span>",digg_bodytext,"</span>")}g.push(=
+"</a>");document.write(g.join(""))=0A=
+},J=3Dfunction(){X=3D1};if(function(g){return =
+g&&(g+=3D"").substr(g.indexOf("{")).replace(/\s/g,"")=3D=3D"{[nativecode]=
+}"=0A=
+}(document.getElementsByClassName)){P=3Dfunction(){var =
+g=3Ddocument.getElementsByClassName("DiggThisButton");=0A=
+while(g.length){F(g[0]);S++}}}else{P=3Dfunction(){var =
+h=3Ddocument.getElementsByTagName("A"),g=3Dh.length,j=3D0,k;=0A=
+for(;j<g;j++){k=3D" "+h[j].className+" ";if(k.indexOf(" DiggThisButton =
+")>=3D0){F(h[j]);S++}}}}C();if(document.body&&!S){A()=0A=
+}if(window.addEventListener){window.addEventListener("load",J,true)}else{=
+if(window.attachEvent){window.attachEvent("onload",J)=0A=
+}else{K=3Dwindow.onload;window.onload=3DK?function(){K();J()}:J}}return{w=
+riteLink:A,addButtons:C,collectDiggs:function(k){var =
+h=3Db[escape(k.url).replace("+","%2b","g")],g=3Dh.length,j=3D0;=0A=
+for(;j<g;j++){h[j](k)}}}})()}else{__DBW.writeLink()};
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://reddit.com/button.js?t=1
+
+(function() {=0A=
+var write_string=3D"<iframe =
+src=3D\"http://www.reddit.com/static/button/button1.html?width=3D120&url=3D=
+";=0A=
+  if (window.reddit_url)  { =0A=
+      write_string +=3D encodeURIComponent(reddit_url); =0A=
+  }=0A=
+  else { =0A=
+      write_string +=3D encodeURIComponent(window.location.href);=0A=
+  }=0A=
+  if (window.reddit_title) {=0A=
+       write_string +=3D '&title=3D' + =
+encodeURIComponent(window.reddit_title);=0A=
+  }=0A=
+  if (window.reddit_target) {=0A=
+       write_string +=3D '&sr=3D' + =
+encodeURIComponent(window.reddit_target);=0A=
+  }=0A=
+  if (window.reddit_css) {=0A=
+      write_string +=3D '&css=3D' + =
+encodeURIComponent(window.reddit_css);=0A=
+  }=0A=
+  if (window.reddit_bgcolor) {=0A=
+      write_string +=3D '&bgcolor=3D' + =
+encodeURIComponent(window.reddit_bgcolor); =0A=
+  }=0A=
+  if (window.reddit_bordercolor) {=0A=
+      write_string +=3D '&bordercolor=3D' + =
+encodeURIComponent(window.reddit_bordercolor); =0A=
+  }=0A=
+  if (window.reddit_newwindow) { =0A=
+      write_string +=3D '&newwindow=3D' + =
+encodeURIComponent(window.reddit_newwindow);}=0A=
+  write_string +=3D "\" height=3D\"22\" width=3D\"120\" scrolling=3D'no' =
+frameborder=3D'0'></iframe>";=0A=
+  document.write(write_string);=0A=
+})()=0A=
+
+------=_NextPart_000_0000_01CB09CA.155D7040
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://xslt.alexa.com/site_stats/js/t/b?amzn_id=networkclue-20&url=www.networkclue.com
+
+function AlexaSiteStatsWidget(){=0A=
+    var keyStr =3D =
+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=3D";=0A=
+    var jsUrlRegex =3D =
+/http:\/\/xslt.alexa.com\/site_stats\/js\/(.)\/(.).*(?:[\?&]|&amp;)url=3D=
+([^\?&]*)/i;=0A=
+    var jsAmznIdRegex =3D =
+/http:\/\/xslt.alexa.com\/site_stats\/js\/.*[\?&]amzn_id=3D([^\?&]*)/i;=0A=
+    var imageSrcPrefix =3D "http://xsltcache.alexa.com/site_stats/gif/";=0A=
+    var detailURLPrefix =3D "http://www.alexa.com/data/details/main";=0A=
+=0A=
+    this.replaceScripts =3D function replaceScripts(){=0A=
+        var scriptElements =3D document.getElementsByTagName("script");=0A=
+        var thisScript =3D scriptElements[scriptElements.length - 1];=0A=
+        var scriptSource =3D thisScript.src;=0A=
+        if(scriptSource !=3D null){=0A=
+            var urlMatched =3D scriptSource.match(jsUrlRegex);=0A=
+            var decodedURL =3D decodeURIComponent(urlMatched[3]);=0A=
+            if(urlMatched !=3D null){=0A=
+                var associatedMatched =3D =
+scriptSource.match(jsAmznIdRegex);=0A=
+                var base64EncodedURL =3D encode64(decodedURL);=0A=
+                var imageURL =3D imageSrcPrefix + urlMatched[1] + "/" + =
+urlMatched[2] + "/" +=0A=
+                           base64EncodedURL + "/s.gif";=0A=
+                var img =3D new Image();=0A=
+                var fullURL =3D getFullURL(decodedURL);=0A=
+                img.src =3D imageURL;=0A=
+                img.setAttribute('border', '0');=0A=
+                if(urlMatched[1] =3D=3D "s")=0A=
+                    img.alt =3D "Alexa Certified Traffic Ranking for " + =
+decodedURL;=0A=
+                else=0A=
+                    img.alt =3D "Alexa Certified Site Stats for " + =
+decodedURL;=0A=
+                var newLink=3Ddocument.createElement('a');=0A=
+                var detailURL =3D detailURLPrefix;=0A=
+                if(associatedMatched !=3D null)=0A=
+                    detailURL =3D detailURL + "?amzn_id=3D" + =
+associatedMatched[1] + "&url=3D" + fullURL;=0A=
+                else=0A=
+                    detailURL =3D detailURL + "?url=3D" + fullURL;=0A=
+                newLink.setAttribute('href', detailURL);=0A=
+                newLink.className=3D'AlexaSiteStatsWidget';=0A=
+                newLink.appendChild(img);=0A=
+                thisScript.parentNode.insertBefore(newLink,thisScript);=0A=
+            }=0A=
+        }=0A=
+    }=0A=
+   =0A=
+    function getFullURL(inputURL){=0A=
+        if(inputURL.substring(0,5).toLowerCase() !=3D "http:")=0A=
+            return "http://" + inputURL;=0A=
+        else return inputURL; =0A=
+    }=0A=
+=0A=
+    function encode64(input) {=0A=
+       var output =3D "";=0A=
+       var chr1, chr2, chr3;=0A=
+       var enc1, enc2, enc3, enc4;=0A=
+       var i =3D 0;=0A=
+=0A=
+       do {=0A=
+          chr1 =3D input.charCodeAt(i++);=0A=
+          chr2 =3D input.charCodeAt(i++);=0A=
+          chr3 =3D input.charCodeAt(i++);=0A=
+=0A=
+          enc1 =3D chr1 >> 2;=0A=
+          enc2 =3D ((chr1 & 3) << 4) | (chr2 >> 4);=0A=
+          enc3 =3D ((chr2 & 15) << 2) | (chr3 >> 6);=0A=
+          enc4 =3D chr3 & 63;=0A=
+=0A=
+          if (isNaN(chr2)) {=0A=
+             enc3 =3D enc4 =3D 64;=0A=
+          } else if (isNaN(chr3)) {=0A=
+             enc4 =3D 64;=0A=
+          }=0A=
+=0A=
+          output =3D output + keyStr.charAt(enc1) + keyStr.charAt(enc2) =
++ =0A=
+          keyStr.charAt(enc3) + keyStr.charAt(enc4);=0A=
+       } while (i < input.length);=0A=
+       =0A=
+       return output;=0A=
+    }=0A=
+}=0A=
+=0A=
+new AlexaSiteStatsWidget().replaceScripts();=0A=
+
+------=_NextPart_000_0000_01CB09CA.155D7040--

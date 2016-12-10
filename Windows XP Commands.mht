@@ -1,0 +1,759 @@
+From: "Saved by Windows Internet Explorer 8"
+Subject: Windows XP Commands
+Date: Sat, 12 Jun 2010 01:14:52 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0082_01CB09CC.A9220AF0"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7600.16385
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0082_01CB09CC.A9220AF0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://ss64.com/nt/
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" =
+"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<HTML><HEAD><TITLE>Windows XP Commands</TITLE><LINK rel=3DSTYLESHEET =
+type=3Dtext/css=20
+href=3D"http://ss64.com/main.css">
+<META content=3D"text/html; charset=3Dutf-8" http-equiv=3DContent-Type>
+<META name=3DDescription content=3D"Windows Command line reference">
+<META name=3DKeywords content=3D"Command line, Windows XP, =
+Windows7"><LINK title=3DRSS=20
+rel=3Dalternate type=3Dapplication/rss+xml href=3D"../rss.xml">
+<META name=3DGENERATOR content=3D"MSHTML 8.00.7600.16385"></HEAD>
+<BODY>
+<DIV id=3Dnav-menu>
+<UL>
+  <LI><A class=3Drl href=3D"http://ss64.com/index.html"><IMG =
+title=3DHome alt=3DHome=20
+  src=3D"http://ss64.com/images/ss64.gif"></A></LI>
+  <LI><!-- Search Google -->
+  <FORM=20
+  style=3D"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; =
+PADDING-RIGHT: 0px; PADDING-TOP: 0px"=20
+  method=3Dget action=3Dhttp://www.google.com/search>
+  <DIV align=3Dright><INPUT class=3Dbody size=3D25 type=3Dtext name=3Dq> =
+<INPUT class=3Dsubmit value=3DSearch type=3Dsubmit> <INPUT =
+value=3Dsite:ss64.com=20
+  type=3Dhidden name=3Dq> </DIV></FORM></LI>
+  <LI><A class=3Drr href=3D"http://ss64.com/nt/syntax.html"><IMG =
+title=3D"XP Syntax"=20
+  alt=3D"XP Syntax" =
+src=3D"http://ss64.com/images/syntax-r.gif"></A></LI>
+  <LI><A class=3Drr href=3D"http://ss64.com/links/windows.html"><IMG=20
+  title=3D"CMD Scripting Books, Websites etc"=20
+  alt=3D"CMD Scripting Books, Websites etc"=20
+  src=3D"http://ss64.com/images/links-r.gif"></A></LI></UL></DIV>
+<H1>An A-Z Index of the <SPAN class=3Dblu>Windows XP</SPAN> command =
+line</H1><PRE>   <A =
+href=3D"http://ss64.com/nt/addusers.html">ADDUSERS</A> Add or list users =
+to/from a CSV file
+   <A href=3D"http://ss64.com/nt/arp.html">ARP</A>      Address =
+Resolution Protocol
+   <A href=3D"http://ss64.com/nt/assoc.html">ASSOC</A>    Change file =
+extension associations=E2=80=A2
+   <A href=3D"http://ss64.com/nt/associate.html">ASSOCIAT</A> One step =
+file association
+   <A href=3D"http://ss64.com/nt/attrib.html">ATTRIB</A>   Change file =
+attributes
+b
+   <A href=3D"http://ss64.com/nt/bootcfg.html">BOOTCFG</A>  Edit Windows =
+boot settings
+   <A href=3D"http://ss64.com/nt/browstat.html">BROWSTAT</A> Get domain, =
+browser and PDC info
+c
+   <A href=3D"http://ss64.com/nt/cacls.html">CACLS</A>    Change file =
+permissions
+   <A href=3D"http://ss64.com/nt/call.html">CALL</A>     Call one batch =
+program from another=E2=80=A2
+   <A href=3D"http://ss64.com/nt/cd.html">CD</A>       Change Directory =
+- move to a specific Folder=E2=80=A2
+   <A href=3D"http://ss64.com/nt/change.html">CHANGE</A>   Change =
+Terminal Server Session properties
+   <A href=3D"http://ss64.com/nt/chkdsk.html">CHKDSK</A>   Check Disk - =
+check and repair disk problems
+   <A href=3D"http://ss64.com/nt/chkntfs.html">CHKNTFS</A>  Check the =
+NTFS file system
+   <A href=3D"http://ss64.com/nt/choice.html">CHOICE</A>   Accept =
+keyboard input to a batch file
+   <A href=3D"http://ss64.com/nt/cipher.html">CIPHER</A>   Encrypt or =
+Decrypt files/folders
+   <A href=3D"http://ss64.com/nt/cleanmgr.html">CleanMgr</A> Automated =
+cleanup of Temp files, recycle bin
+   CLEARMEM Clear memory leaks
+   <A href=3D"http://ss64.com/nt/clip.html">CLIP</A>     Copy STDIN to =
+the Windows clipboard.
+   CLS      Clear the screen=E2=80=A2
+   CLUSTER  Windows Clustering
+   <A href=3D"http://ss64.com/nt/cmd.html">CMD</A>      Start a new CMD =
+shell
+   <A href=3D"http://ss64.com/nt/color.html">COLOR</A>    Change colors =
+of the CMD window=E2=80=A2
+   <A href=3D"http://ss64.com/nt/comp.html">COMP</A>     Compare the =
+contents of two files or sets of files
+   COMPACT  Compress files or folders on an NTFS partition
+   COMPRESS Compress individual files on an NTFS partition
+   <A href=3D"http://ss64.com/nt/con2prt.html">CON2PRT</A>  Connect or =
+disconnect a Printer
+   CONVERT  Convert a FAT drive to NTFS.
+   <A href=3D"http://ss64.com/nt/copy.html">COPY</A>     Copy one or =
+more files to another location=E2=80=A2
+   <A href=3D"http://ss64.com/nt/csccmd.html">CSCcmd</A>   Client-side =
+caching (Offline Files)
+   <A href=3D"http://ss64.com/nt/csvde.html">CSVDE</A>    Import or =
+Export Active Directory data=20
+d
+   <A href=3D"http://ss64.com/nt/date.html">DATE</A>     Display or set =
+the date=E2=80=A2
+   <A href=3D"http://ss64.com/nt/defrag.html">DEFRAG</A>   Defragment =
+hard drive
+   <A href=3D"http://ss64.com/nt/del.html">DEL</A>      Delete one or =
+more files=E2=80=A2
+   <A href=3D"http://ss64.com/nt/delprof.html">DELPROF</A>  Delete NT =
+user profiles
+   <A href=3D"http://ss64.com/nt/del.html">DELTREE</A>  Delete a folder =
+and all subfolders
+   <A href=3D"http://ss64.com/nt/devcon.html">DevCon</A>   Device =
+Manager Command Line Utility=20
+   <A href=3D"http://ss64.com/nt/dir.html">DIR</A>      Display a list =
+of files and folders=E2=80=A2
+   <A href=3D"http://ss64.com/nt/diruse.html">DIRUSE</A>   Display disk =
+usage
+   <A href=3D"http://ss64.com/nt/diskcomp.html">DISKCOMP</A> Compare the =
+contents of two floppy disks
+   <A href=3D"http://ss64.com/nt/diskcopy.html">DISKCOPY</A> Copy the =
+contents of one floppy disk to another
+   <A href=3D"http://ss64.com/nt/diskpart.html">DISKPART</A> Disk =
+Administration
+   DNSSTAT  DNS Statistics
+   <A href=3D"http://ss64.com/nt/doskey.html">DOSKEY</A>   Edit command =
+line, recall commands, and create macros
+   <A href=3D"http://ss64.com/nt/dsacls.html">DSACLs</A>   Active =
+Directory ACLs
+   <A href=3D"http://ss64.com/nt/dsadd.html">DSAdd</A>    Add items to =
+active directory (<A =
+href=3D"http://ss64.com/nt/dsadd-user.html">user</A> <A =
+href=3D"http://ss64.com/nt/dsadd-group.html">group</A> <A =
+href=3D"http://ss64.com/nt/dsadd-computer.html">computer</A>)=20
+   <A href=3D"http://ss64.com/nt/dsget.html">DSGet</A>    View items in =
+active directory (<A =
+href=3D"http://ss64.com/nt/dsget-user.html">user</A> <A =
+href=3D"http://ss64.com/nt/dsget-group.html">group</A> <A =
+href=3D"http://ss64.com/nt/dsget-computer.html">computer</A>)
+   <A href=3D"http://ss64.com/nt/dsquery.html">DSQuery</A>  Search for =
+items in active directory (<A =
+href=3D"http://ss64.com/nt/dsquery-user.html">user</A> <A =
+href=3D"http://ss64.com/nt/dsquery-group.html">group</A> <A =
+href=3D"http://ss64.com/nt/dsquery-computer.html">computer</A>)
+   <A href=3D"http://ss64.com/nt/dsmod.html">DSMod</A>    Modify items =
+in active directory (<A =
+href=3D"http://ss64.com/nt/dsmod-user.html">user</A> <A =
+href=3D"http://ss64.com/nt/dsmod-group.html">group</A> <A =
+href=3D"http://ss64.com/nt/dsmod-computer.html">computer</A>)
+   <A href=3D"http://ss64.com/nt/dsmove.html">DSMove</A>   Move an =
+Active directory Object
+   <A href=3D"http://ss64.com/nt/dsrm.html">DSRM</A>     Remove items =
+from Active Directory
+e
+   <A href=3D"http://ss64.com/nt/echo.html">ECHO</A>     Display message =
+on screen=E2=80=A2
+   <A href=3D"http://ss64.com/nt/endlocal.html">ENDLOCAL</A> End =
+localisation of environment changes in a batch file=E2=80=A2
+   <A href=3D"http://ss64.com/nt/del.html">ERASE</A>    Delete one or =
+more files=E2=80=A2
+   <A href=3D"http://ss64.com/nt/eventcreate.html">EVENTCREATE</A> Add a =
+message to the Windows event log
+   <A href=3D"http://ss64.com/nt/exit.html">EXIT</A>     Quit the =
+current script/routine and set an errorlevel=E2=80=A2
+   <A href=3D"http://ss64.com/nt/expand.html">EXPAND</A>   Uncompress =
+files
+   <A href=3D"http://ss64.com/nt/extract.html">EXTRACT</A>  Uncompress =
+CAB files
+f
+   <A href=3D"http://ss64.com/nt/fc.html">FC</A>       Compare two files
+   <A href=3D"http://ss64.com/nt/find.html">FIND</A>     Search for a =
+text string in a file
+   <A href=3D"http://ss64.com/nt/findstr.html">FINDSTR</A>  Search for =
+strings in files
+   <A href=3D"http://ss64.com/nt/for_f.html">FOR /F</A>   Loop command: =
+against a set of files=E2=80=A2
+   <A href=3D"http://ss64.com/nt/for_cmd.html">FOR /F</A>   Loop =
+command: against the results of another command=E2=80=A2
+   <A href=3D"http://ss64.com/nt/for.html">FOR</A>      Loop command: =
+all options Files, Directory, List=E2=80=A2
+   <A href=3D"http://ss64.com/nt/forfiles.html">FORFILES</A> Batch =
+process multiple files
+   <A href=3D"http://ss64.com/nt/format.html">FORMAT</A>   Format a disk
+   FREEDISK Check free disk space (in bytes)
+   <A href=3D"http://ss64.com/nt/fsutil.html">FSUTIL</A>   File and =
+Volume utilities
+   <A href=3D"http://ss64.com/nt/ftp.html">FTP</A>      File Transfer =
+Protocol
+   <A href=3D"http://ss64.com/nt/ftype.html">FTYPE</A>    Display or =
+modify file types used in file extension associations=E2=80=A2
+g
+   <A href=3D"http://ss64.com/nt/global.html">GLOBAL</A>   Display =
+membership of global groups
+   <A href=3D"http://ss64.com/nt/goto.html">GOTO</A>     Direct a batch =
+program to jump to a labelled line=E2=80=A2
+   <A href=3D"http://ss64.com/nt/gpupdate.html">GPUPDATE</A> Update =
+Group Policy settings
+h
+   <A href=3D"http://ss64.com/nt/help.html">HELP</A>     Online Help
+i
+   <A href=3D"http://ss64.com/nt/icacls.html">iCACLS</A>   Change file =
+and folder permissions
+   <A href=3D"http://ss64.com/nt/if.html">IF</A>       Conditionally =
+perform a command=E2=80=A2
+   <A href=3D"http://ss64.com/nt/ifmember.html">IFMEMBER</A> Is the =
+current user in an NT Workgroup
+   <A href=3D"http://ss64.com/nt/ipconfig.html">IPCONFIG</A> Configure =
+IP
+k
+   <A href=3D"http://ss64.com/nt/kill.html">KILL</A>     Remove a =
+program from memory
+l
+   <A href=3D"http://ss64.com/nt/label.html">LABEL</A>    Edit a disk =
+label
+   <A href=3D"http://ss64.com/nt/local.html">LOCAL</A>    Display =
+membership of local groups
+   <A href=3D"http://ss64.com/nt/logevent.html">LOGEVENT</A> Write text =
+to the NT event viewer
+   <A href=3D"http://ss64.com/nt/logoff.html">LOGOFF</A>   Log a user =
+off
+   <A href=3D"http://ss64.com/nt/logtime.html">LOGTIME</A>  Log the date =
+and time in a file
+m
+   <A href=3D"http://ss64.com/nt/mapisend.html">MAPISEND</A> Send email =
+from the command line
+   <A href=3D"http://ss64.com/nt/mbsacli.html">MBSAcli</A>  Baseline =
+Security Analyzer.=20
+   <A href=3D"http://ss64.com/nt/mem.html">MEM</A>      Display memory =
+usage
+   <A href=3D"http://ss64.com/nt/md.html">MD</A>       Create new =
+folders=E2=80=A2
+   <A href=3D"http://ss64.com/nt/mklink.html">MKLINK</A>   Create a =
+symbolic link (linkd)
+   <A href=3D"http://ss64.com/nt/mode.html">MODE</A>     Configure a =
+system device
+   <A href=3D"http://ss64.com/nt/more.html">MORE</A>     Display output, =
+one screen at a time
+   <A href=3D"http://ss64.com/nt/mountvol.html">MOUNTVOL</A> Manage a =
+volume mount point
+   <A href=3D"http://ss64.com/nt/move.html">MOVE</A>     Move files from =
+one folder to another=E2=80=A2
+   <A href=3D"http://ss64.com/nt/moveuser.html">MOVEUSER</A> Move a user =
+from one domain to another
+   <A href=3D"http://ss64.com/nt/msg.html">MSG</A>      Send a message
+   <A href=3D"http://ss64.com/nt/msiexec.html">MSIEXEC</A>  Microsoft =
+Windows Installer
+   <A href=3D"http://ss64.com/nt/msinfo.html">MSINFO</A>   Windows NT =
+diagnostics
+   <A href=3D"http://ss64.com/nt/mstsc.html">MSTSC</A>    Terminal =
+Server Connection (Remote Desktop Protocol)
+   <A href=3D"http://ss64.com/nt/munge.html">MUNGE</A>    Find and =
+Replace text within file(s)
+   <A href=3D"http://ss64.com/nt/mv.html">MV</A>       Copy in-use files
+n
+   <A href=3D"http://ss64.com/nt/net.html">NET</A>      Manage network =
+resources
+   <A href=3D"http://ss64.com/nt/netdom.html">NETDOM</A>   Domain =
+Manager
+   <A href=3D"http://ss64.com/nt/netsh.html">NETSH</A>    Configure =
+Network Interfaces, Windows Firewall &amp; Remote access
+   <A href=3D"http://ss64.com/nt/netsvc.html">NETSVC</A>   Command-line =
+Service Controller
+   <A href=3D"http://ss64.com/nt/nbtstat.html">NBTSTAT</A>  Display =
+networking statistics (NetBIOS over TCP/IP)
+   <A href=3D"http://ss64.com/nt/netstat.html">NETSTAT</A>  Display =
+networking statistics (TCP/IP)
+   <A href=3D"http://ss64.com/nt/now.html">NOW</A>      Display the =
+current Date and Time=20
+   <A href=3D"http://ss64.com/nt/nslookup.html">NSLOOKUP</A> Name server =
+lookup
+   <A href=3D"http://ss64.com/nt/ntbackup.html">NTBACKUP</A> Backup =
+folders to tape
+   <A href=3D"http://ss64.com/nt/ntrights.html">NTRIGHTS</A> Edit user =
+account rights
+o
+   <A href=3D"http://ss64.com/nt/openfiles.html">OPENFILES</A> Query or =
+display open files
+p
+   <A href=3D"http://ss64.com/nt/path.html">PATH</A>     Display or set =
+a search path for executable files=E2=80=A2
+   <A href=3D"http://ss64.com/nt/pathping.html">PATHPING</A> Trace route =
+plus network latency and packet loss
+   <A href=3D"http://ss64.com/nt/pause.html">PAUSE</A>    Suspend =
+processing of a batch file and display a message=E2=80=A2
+   <A href=3D"http://ss64.com/nt/perms.html">PERMS</A>    Show =
+permissions for a user
+   <A href=3D"http://ss64.com/nt/monitor.html">PERFMON</A>  Performance =
+Monitor
+   <A href=3D"http://ss64.com/nt/ping.html">PING</A>     Test a network =
+connection
+   <A href=3D"http://ss64.com/nt/popd.html">POPD</A>     Restore the =
+previous value of the current directory saved by PUSHD=E2=80=A2
+   <A href=3D"http://ss64.com/nt/portqry.html">PORTQRY</A>  Display the =
+status of ports and services
+   <A href=3D"http://ss64.com/nt/powercfg.html">POWERCFG</A> Configure =
+power settings
+   <A href=3D"http://ss64.com/nt/print.html">PRINT</A>    Print a text =
+file
+   <A href=3D"http://ss64.com/nt/prncnfg.html">PRNCNFG</A>  Display, =
+configure or rename a printer
+   <A href=3D"http://ss64.com/nt/prnmngr.html">PRNMNGR</A>  Add, delete, =
+list printers set the default printer
+   <A href=3D"http://ss64.com/nt/prompt.html">PROMPT</A>   Change the =
+command prompt=E2=80=A2
+   <A href=3D"http://ss64.com/nt/psexec.html">PsExec</A>     Execute =
+process remotely
+   <A href=3D"http://ss64.com/nt/psfile.html">PsFile</A>     Show files =
+opened remotely
+   <A href=3D"http://ss64.com/nt/psgetsid.html">PsGetSid</A>   Display =
+the SID of a computer or a user
+   <A href=3D"http://ss64.com/nt/psinfo.html">PsInfo</A>     List =
+information about a system
+   <A href=3D"http://ss64.com/nt/pskill.html">PsKill</A>     Kill =
+processes by name or process ID
+   <A href=3D"http://ss64.com/nt/pslist.html">PsList</A>     List =
+detailed information about processes
+   <A href=3D"http://ss64.com/nt/psloggedon.html">PsLoggedOn</A> Who's =
+logged on (locally or via resource sharing)
+   <A href=3D"http://ss64.com/nt/psloglist.html">PsLogList</A>  Event =
+log records
+   <A href=3D"http://ss64.com/nt/pspasswd.html">PsPasswd</A>   Change =
+account password
+   <A href=3D"http://ss64.com/nt/psservice.html">PsService</A>  View and =
+control services
+   <A href=3D"http://ss64.com/nt/psshutdown.html">PsShutdown</A> =
+Shutdown or reboot a computer
+   <A href=3D"http://ss64.com/nt/pssuspend.html">PsSuspend</A>  Suspend =
+processes
+   <A href=3D"http://ss64.com/nt/pushd.html">PUSHD</A>    Save and then =
+change the current directory=E2=80=A2
+q
+   <A href=3D"http://ss64.com/nt/qgrep.html">QGREP</A>    Search file(s) =
+for lines that match a given pattern.
+r
+   <A href=3D"http://ss64.com/nt/rasdial.html">RASDIAL</A>  Manage RAS =
+connections
+   <A href=3D"http://ss64.com/nt/rasphone.html">RASPHONE</A> Manage RAS =
+connections
+   <A href=3D"http://ss64.com/nt/recover.html">RECOVER</A>  Recover a =
+damaged file from a defective disk.
+   <A href=3D"http://ss64.com/nt/reg.html">REG</A>      Registry: Read, =
+Set, Export, Delete keys and values
+   <A href=3D"http://ss64.com/nt/regedit.html">REGEDIT</A>  Import or =
+export registry settings
+   <A href=3D"http://ss64.com/nt/regsvr32.html">REGSVR32</A> Register or =
+unregister a DLL
+   <A href=3D"http://ss64.com/nt/regini.html">REGINI</A>   Change =
+Registry Permissions
+   <A href=3D"http://ss64.com/nt/rem.html">REM</A>      Record comments =
+(remarks) in a batch file=E2=80=A2
+   <A href=3D"http://ss64.com/nt/ren.html">REN</A>      Rename a file or =
+files=E2=80=A2
+   <A href=3D"http://ss64.com/nt/replace.html">REPLACE</A>  Replace or =
+update one file with another
+   <A href=3D"http://ss64.com/nt/rd.html">RD</A>       Delete =
+folder(s)=E2=80=A2
+   <A href=3D"http://ss64.com/nt/rmtshare.html">RMTSHARE</A> Share a =
+folder or a printer
+   <A href=3D"http://ss64.com/nt/robocopy.html">ROBOCOPY</A> Robust File =
+and Folder Copy
+   <A href=3D"http://ss64.com/nt/route.html">ROUTE</A>    Manipulate =
+network routing tables
+   <A href=3D"http://ss64.com/nt/runas.html">RUNAS</A>    Execute a =
+program under a different user account
+   <A href=3D"http://ss64.com/nt/rundll32.html">RUNDLL32</A> Run a DLL =
+command (add/remove print connections)
+s
+   <A href=3D"http://ss64.com/nt/sc.html">SC</A>       Service Control
+   <A href=3D"http://ss64.com/nt/schtasks.html">SCHTASKS</A> Schedule a =
+command to run at a specific time
+   <A href=3D"http://ss64.com/nt/sclist.html">SCLIST</A>   Display NT =
+Services
+   <A href=3D"http://ss64.com/nt/set.html">SET</A>      Display, set, or =
+remove environment variables=E2=80=A2
+   <A href=3D"http://ss64.com/nt/setlocal.html">SETLOCAL</A> Control the =
+visibility of environment variables=E2=80=A2
+   <A href=3D"http://ss64.com/nt/setx.html">SETX</A>     Set environment =
+variables permanently
+   <A href=3D"http://ss64.com/nt/sfc.html">SFC</A>      System File =
+Checker=20
+   <A href=3D"http://ss64.com/nt/share.html">SHARE</A>    List or edit a =
+file share or print share
+   <A href=3D"http://ss64.com/nt/shift.html">SHIFT</A>    Shift the =
+position of replaceable parameters in a batch file=E2=80=A2
+   <A href=3D"http://ss64.com/nt/shortcut.html">SHORTCUT</A> Create a =
+windows shortcut (.LNK file)
+   <A href=3D"http://ss64.com/nt/showgrps.html">SHOWGRPS</A> List the NT =
+Workgroups a user has joined
+   <A href=3D"http://ss64.com/nt/showmbrs.html">SHOWMBRS</A> List the =
+Users who are members of a Workgroup
+   <A href=3D"http://ss64.com/nt/shutdown.html">SHUTDOWN</A> Shutdown =
+the computer
+   <A href=3D"http://ss64.com/nt/sleep.html">SLEEP</A>    Wait for x =
+seconds
+   <A href=3D"http://ss64.com/nt/slmgr.html">SLMGR</A>    Software =
+Licensing Management (Vista/2008)
+   <A href=3D"http://ss64.com/nt/soon.html">SOON</A>     Schedule a =
+command to run in the near future
+   <A href=3D"http://ss64.com/nt/sort.html">SORT</A>     Sort input
+   <A href=3D"http://ss64.com/nt/start.html">START</A>    Start a =
+program or command in a separate window=E2=80=A2
+   <A href=3D"http://ss64.com/nt/su.html">SU</A>       Switch User
+   <A href=3D"http://ss64.com/nt/subinacl.html">SUBINACL</A> Edit file =
+and folder Permissions, Ownership and Domain
+   <A href=3D"http://ss64.com/nt/subst.html">SUBST</A>    Associate a =
+path with a drive letter
+   <A href=3D"http://ss64.com/nt/systeminfo.html">SYSTEMINFO</A> List =
+system configuration
+t
+   <A href=3D"http://ss64.com/nt/tasklist.html">TASKLIST</A> List =
+running applications and services
+   TASKKILL Remove a running process from memory
+   <A href=3D"http://ss64.com/nt/time.html">TIME</A>     Display or set =
+the system time=E2=80=A2
+   <A href=3D"http://ss64.com/nt/timeout.html">TIMEOUT</A>  Delay =
+processing of a batch file
+   <A href=3D"http://ss64.com/nt/title.html">TITLE</A>    Set the window =
+title for a CMD.EXE session=E2=80=A2
+   <A href=3D"http://ss64.com/nt/tlist.html">TLIST</A>    Task list with =
+full path
+   <A href=3D"http://ss64.com/nt/touch.html">TOUCH</A>    Change file =
+timestamps   =20
+   <A href=3D"http://ss64.com/nt/tracert.html">TRACERT</A>  Trace route =
+to a remote host
+   TREE     Graphical display of folder structure
+   <A href=3D"http://ss64.com/nt/type.html">TYPE</A>     Display the =
+contents of a text file=E2=80=A2
+u
+   USRSTAT  List domain usernames and last login
+v
+   <A href=3D"http://ss64.com/nt/ver.html">VER</A>      Display version =
+information=E2=80=A2
+   <A href=3D"http://ss64.com/nt/verify.html">VERIFY</A>   Verify that =
+files have been saved=E2=80=A2
+   <A href=3D"http://ss64.com/nt/vol.html">VOL</A>      Display a disk =
+label=E2=80=A2
+w
+   <A href=3D"http://ss64.com/nt/where.html">WHERE</A>    Locate and =
+display files in a directory tree
+   <A href=3D"http://ss64.com/nt/whoami.html">WHOAMI</A>   Output the =
+current UserName and domain
+   <A href=3D"http://ss64.com/nt/windiff.html">WINDIFF</A>  Compare the =
+contents of two files or sets of files
+   <A href=3D"http://ss64.com/nt/winmsd.html">WINMSD</A>   Windows =
+system diagnostics
+   <A href=3D"http://ss64.com/nt/winmsdp.html">WINMSDP</A>  Windows =
+system diagnostics II
+   <A href=3D"http://ss64.com/nt/wmic.html">WMIC</A>     WMI Commands
+x
+   <A href=3D"http://ss64.com/nt/xcacls.html">XCACLS</A>   Change file =
+and folder permissions
+   <A href=3D"http://ss64.com/nt/xcopy.html">XCOPY</A>    Copy files and =
+folders
+   <A href=3D"http://ss64.com/nt/rem.html">::</A>       Comment / =
+Remark=E2=80=A2
+</PRE>
+<P>Commands marked =E2=80=A2 are <I>Internal</I> commands only available =
+within the CMD=20
+shell.<BR>All other commands (not marked with =E2=80=A2) are =
+<I>external</I> commands=20
+which may be used under the CMD shell, <A=20
+href=3D"http://ss64.com/ps/">PowerShell</A>, or directly from =
+START-RUN.</P>
+<P>Windows <A href=3D"http://ss64.com/nt/syntax-run-commands.html">RUN=20
+Commands</A>, Microsoft Help pages: <A=20
+href=3D"http://www.microsoft.com/resources/documentation/windows/xp/all/p=
+roddocs/en-us/ntcmds.mspx">Windows=20
+XP</A> - <A=20
+href=3D"http://technet2.microsoft.com/windowsserver/en/library/552ed70a-2=
+08d-48c4-8da8-2e27b530eac71033.mspx?mfr=3Dtrue">2003=20
+Server</A> - <A=20
+href=3D"http://technet.microsoft.com/en-us/library/cc772390.aspx">2008=20
+Server</A><BR><A =
+href=3D"http://ss64.org/viewforum.php?id=3D2">Discussion=20
+forum</A><BR><A href=3D"http://ss64.com/links/windows.html">Links to =
+other Sites,=20
+books etc...</A><BR></P><!-- #BeginLibraryItem "/Library/foot_menu.lbi" =
+-->
+<DIV align=3Dcenter>
+<HR SIZE=3D1>
+
+<P id=3Dtop><A href=3D"http://ss64.com/nt/#"><IMG title=3D"Back to the =
+Top" border=3D0=20
+alt=3D"Back to the Top" src=3D"http://ss64.com/images/top-4.gif" =
+width=3D47=20
+height=3D53></A></P>
+<P class=3Dtagline>=C2=A9 Copyright <A =
+href=3D"http://ss64.com/">SS64.com</A>=20
+1999-2010<BR>Some rights=20
+reserved<BR></P></DIV><!-- #EndLibraryItem --></BODY></HTML>
+
+------=_NextPart_000_0082_01CB09CC.A9220AF0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://ss64.com/images/ss64.gif
+
+R0lGODlhcwAvANUAAAAAAAoH0gwJ0xEO1BQR1BkW1R0a1SEe1yMh1ygm2Cwp2DEu2TYz2jo32zs4
+20A+3EVD3UhG3kpI3lJP4FVT4FhW4VtZ4WBe4mJg42ln5Gtp5HBv5XNx5nl3531753996IF/6IWD
+6YmI6pST65yb7aSj7qin76yr8LCv8bOy8bm58sTD9MvK9dLS99XV+Nva+OTk+uzs/PLy/v7+/gAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAkAADQALAAAAABzAC8AAAb/QJpw
+SCwaj8ikcslsOp/QqHRKrVqv2Kx2y+16v+CweEwum8/otHrNbrvf8Lh8Tq/b7/i8fj+czVopKS9+
+RH6AgoRPfol8TSUIAZEBECxEj5KTlUMxIRAKFCtGMhQTFI1NKZIGA5EFLkKpkautr0IOmAIphRyR
+A6dMDAEHL0InAgEXQsHDxcfJNBsBBSkqCwEKfS0CrL6/SscaM0MZDqY04ETk5pAjQi4mJn0PBNHd
+3kgKAQMlMUf5+/2KsIjEwkWKWkJmkAggQoS+e0lCSBLAgEOoIRIjUbQ45EQkCpIkbDKQgIZDexCN
+eCCAKUADTTRWtnxJY2EkBpACTBCiIcAJx5MPUyZR0eFWJAQyxAkhajQAgpqRMAgBGeAFCwEQhJwU
+yuQFhEgXi3gFG+siikgpPlyLECGfAK5EXkT60MdjAEFzidg9GEkFLLBqW0YiAVeIgQAGLsL4KgAG
+jcOJhSwO0JiGNQtCKuiLAWOF5xU9BaxwXNhuAAIFJIEoJgm16maID0TiYOQkI7gpgqkaoZRGbkwG
+2g0hwXL2EduFi3RWMcjIjOXNjbBYERBJ7+TYs2vfzr279+/gw4sfT768+fPo06tfz7493CAAOw==
+
+------=_NextPart_000_0082_01CB09CC.A9220AF0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://ss64.com/images/syntax-r.gif
+
+R0lGODlhcwAvAPcAMf///wIIpAIRkgQLUQYEjAYGaAcKcwkGewkKcgoGjwsEdgsHggsJkgsNSgsR
+XQwGsAwLZgwQlgwQpQ0Bow0Cqg0Jew0JrA0LnA0TaQ4Clg4PXw4WRw8Eng8LbA8ORw8RdQ8SeRAG
+eREHnBELhxEMihIIwRIMqhITTBITYxITdBIUvxMJeRMMUBMMWhMMshMMuxMNchMOlRMPZhMTkhMU
+fBMVRhMaRBMbahQGsRQKahQLnBQRmxQUUxQVWxQYTRQbXBUYVRUYgRYOpBYQphYQshYSgxYUaxYa
+YRYbkRcSqhkTgxkUYxkUfBkWWhkZVhoLjBoMwRoRmRoTjBoWdRoaWxsZShwLlRwaYxwagxwbah0O
+gR0cjB4adh8XbCAWnSAbgSIXWSIciCIkiSMeeSMhhScemycfdScj0CcpdCgkeSgmbygndygshy0t
+my0zfy4ubC8nijAoyzAuqzIz2zMokTQt0zUwpjUwyDVAmjY7ljs8ljxCjj01pD4zkT44mEA9lEA/
+hUFEoUM810NAhUUysEZKrkdMckpJmUtKkExMik1K2U5Nd05PqU9Js1NSm1VU01ZUi1ZVsldcuFhc
+pFlLrVlgqFtclVtcr1tqxVxbhWBfumBjhmVa/2l4s2xxq21wvW5p+W5y7XR1uHZ1r3Z60Xdz4nlz
+xXl3ynl5t3t40Xx6+YSAzYV+24mL3oqLxIyH/4yKzY6M7Y6U0pGM8pOZ1ZWX0JeU2ZicuZmY3Jyd
+y5yg3Z6Y/KCd4qCovaOd06SX76Si86ek2aem/6il6qiv86un/Kus7625866x/7Cp3bGk/7Km5rS0
+5LW85ra1/Liy3rm36Lq79LvC/MLC/sLE68TK/8jL7srL/szT/9Pa4tXa3dbQ/9bZ/9va/9zi/93T
+/97l7+Le/+Lr9uTk/+Xr/+Xw/+jf/+jt8Onm/+zs/uzx/+z5/+3z9PHu//L88/Pz/vP7/vT08/r1
+/vv8/fz8833vQwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAPUALAAAAABzAC8A
+AAj/AOsJHEiwoMGDCBMqXMiwocOHECNKnEixosWLGDNq3Mixo8ePIEOKHEmypMmTKFOqXMmypcuX
+MGPKnEmzps2bOHPq3Mmz47x557LBm0dv3kV38Nz1lDgvHbAoFFwIwTJMnsV52rQZXQrxnS4QElTM
+sZBkAa6K75JdodKNa9cBNzoNZFTBSLp3P7fGI0pvLzt4f925myfvHbMNNuC5faiOSg9XA9Pd6oU3
+EyRfRtPlgjSqXSJH3WaFEfOJXDpNcnbMCFRL3TtefEQIsVMsnbVFm8Stg2cIEjOe78Y8sULol7mB
+8NShQqEmXb13PabsSpdiRxwKFCzsiJQu0hYCDNqk/0pnSooOUIp2VAA2zk8HN+oKkVnTjue8b3Qy
+YBeiYFVyeOTYUMM46WADhA/vjIMCDWxwo44kCKCAzjvN9HCFOurUA8YVzpSzziQoJJJOODAwcAcB
+CHjj1jGYCBDACxzA0c4877yxBCzomJKFJe+oAwQKtCRXDQpNvFMPNDzwIBA9TM5DzjRjcAGIQMYs
+EAMNxnBFz0DyfENJCF8445oyWpDRTRZOUGMkFQ5cI1A4SY5TDzM/ACEQPNjgEcEDJZzBwB4DyQCD
+A1z50sUV6WQGDw8OyKJYOy2kIEwWJxhZDxA/uFlPN0kaucwSLAyUQxGxcJOOKCgMIpApI1w5iaU7
+XfhjBASeqAMPPNLcgAExir3jSBEkFACLc+mckOmbTvCg4jMeVCHQNVT4kGE9f8CAyDhnHqAKAkZE
+49xO8JxCggsv1EGEBQnoMa080yixABbdGAWdA9gI1E0TP5BTjzRBzCBFKdMYgEQoyDxyAQN5pMME
+E5ekQwoKPVjFUzq2lDEBFDh4wcq3z6XDBQ1oWPrOCUdUI9A2S2igYj2VfLBFI+S0QoAJJgjyyhAU
+cBIFDAK9k8YKffRE1DzwiANOXgIRPU4DVAQD62IodQMDCUqYITHUKVWTAg2HjHM11mCHLfbYZJdt
+9tlop6322my37fbbcMct99x0141QQAA7
+
+------=_NextPart_000_0082_01CB09CC.A9220AF0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://ss64.com/images/links-r.gif
+
+R0lGODlhcwAvAPcAMf///wUApAYElgcDjggCqgkEeAoFswsCmgwONA0JVg0Ktg0MhA4KXw4MdA4O
+Sg4PYQ4QOhAGgxALphEORRIJvhIKYBIKaRISpBMDlxMEnRMJkBMMexMOcxMQlRMRUhMTNxMUTRMW
+fRMZWRQMihQMtxQRthQTPRQVQhUFoxUTYxYMqxYTWhYTgxYbQxcTcRcUbxcbZRgWXxgWaxgXUBkP
+vhkVZRoRfhoRqBoVPhoVoxobPhsVRBsaRBsbcxwVchwYiRwbShwbUx0WSh0aWx4Zax4fniAbXSAh
+YiEfRCIUcyIYcSMcUCQdeyQdhCQkliUfTScfjCcioycqcSkgiSkify4xXDEwbDMrZDMtWzMwXzM0
+ZDQylTQzcTQ0ijU0ezY4gzcurTc4ezk1gTs2djs7bDwwujw5Zjw5fj08dD09gz5Acz81pUA8b0JB
+e0JCdEZElEdFmExNvE1FgU1Ha05PblBQllFScVFSglRPq1lScV5V1mFfwmNlomZesW1tq25tp3Bp
+xnBqkHh5qXp4t3x21oGB44WFxYiK1YmL44qFvYuL2o6Kvo+Mw4+Pz5GV0pORuZaUxpmS1qGg/6aj
+zqyr57Cv/7Gs9LKx7LSy87q64L687b/A9sC89MTB7MbD+sjE7svM/83L89HJ/9HN8tXT/dbe9dfe
+/9nV9tnV+9ri/9vb/9zj9+Hd/+Ln4eTk/+Tq/urm/+vr/+3x//Dr//Lz/vL07PT18/T43fX34fX6
+/ff59vr2//r99fv+/c7HVgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAL4ALAAAAABzAC8A
+AAj/AH0JHEiwoMGDCBMqXMiwocOHECNKnEixosWLGDNq3Mixo8ePIEOKHEmypMmTKFOqXMmypcuX
+MGPKnEmzps2bOHPq3Mmzp0+Ms8as4EKroCwIMzQppJXFQ6KfGGOpSRFGVkFaPHhkWmpmCCOoF2W5
+SeHFasFavHgpjIVlhSGzt3AJtCWQVy+6YBHGQiOjbMFdeeagokXnDilCUKb0oZVrFpsYjXLJWiQn
+EK1etAYxscHkj9m8V8l4IFowlpAhllQdaRAlxwEVGt64cmXlwSFZgiooUUUrlpENZfSAGUGlKGiC
+e2t4MT6QFgIQmF6taLDF1Cs+Q07IilVFBKJCL7io/xLo6kQQUpLrnGF+3BctNGQ/C6SlA8QlVxCC
+QOrNacgEVbFwEUIRA/ywiXGxDMFBE4qAkksu7SFHRg1isOdLLEB4gIkrPCzxCXk77AALLF4sIAEN
+B8ARi0C5eLIGBihkMAIgFoJGixsJeLEiQbK04MCGJvAwikCn4GACKwFy4IQkLvgQSUGuYILHBhZM
+EqFAsvD1hiqvlLLKKq+80sIQG/IAxIe+qJLVbGTAoMgrfliQBCu+iHKFHYy9IkUKj1zp3hcdBKCA
+AQqUcEEcr5hgH4dAdCIQKjt8EEssWojgiCyypMBAG7644kEPe1SCCAsyhOKnLGmwcAMJFBhAgABx
+xFxiwgScwKKDEKgIRMoTSExqxgSLYEoJESkY4ksqXRQwQgRNWLKLn77Y0ksuvUxrrS69IHRXLdku
+RG0r7lUL7bjklmvuueimq+667Lbr7rvwxivvvPTWa++9+EIbEAA7
+
+------=_NextPart_000_0082_01CB09CC.A9220AF0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://ss64.com/images/top-4.gif
+
+R0lGODlhLwA1APcAMf////7+/v39/fz8/Pv7+/r6+vn5+fj4+Pf39/b29vX19fT09PPz8/Ly8vHx
+8fDw8O/v7+7u7u3t7ezs7Ovr6+rq6unp6ejo6Ofn5+bm5uXl5eTk5OPj4+Li4uHh4eDg4N/f397e
+3t3d3dzc3Nvb29ra2tnZ2djY2NfX19bW1tXV1dTU1NPT09LS0tHR0dDQ0M/Pz87Ozs3NzczMzMvL
+y8rKysnJycjIyMfHx8bGxsXFxcTExMPDw8LCwsHBwcDAwL+/v76+vr29vby8vLu7u7q6urm5ubi4
+uLe3t7a2trW1tbS0tLOzs7KysrGxsbCwsK+vr66urq2traysrKurq6qqqqmpqaioqKenp6ampqWl
+paSkpKOjo6KioqGhoaCgoJ+fn56enp2dnZycnJubm5qampmZmZiYmJeXl5aWlpWVlZSUlJOTk5KS
+kpGRkZCQkI+Pj46Ojo2NjYyMjIuLi4qKiomJiYiIiIeHh4aGhoWFhYSEhIODg4KCgoGBgYCAgH9/
+f35+fn19fXx8fHt7e3p6enl5eXh4eHd3d3Z2dnV1dXR0dHNzc3JycnFxcXBwcG9vb25ubm1tbWxs
+bGtra2pqamlpaWhoaGdnZ2ZmZmVlZWRkZGNjY2JiYmFhYWBgYF9fX15eXl1dXVxcXFtbW1paWllZ
+WVhYWFdXV1ZWVlVVVVRUVFNTU1JSUlFRUVBQUE9PT05OTk1NTUxMTEtLS0pKSklJSUhISEdHR0ZG
+RkVFRURERENDQ0JCQkFBQUBAQD8/Pz4+Pj09PTw8PDs7Ozo6Ojk5OTg4ODc3NzY2NjU1NTQ0NDMz
+MzIyMjExMTAwMC8vLy4uLi0tLSwsLCsrKyoqKikpKSgoKCcnJyYmJiUlJSQkJCMjIyIiIiEhISAg
+IB8fHx4eHh0dHRwcHBsbGxoaGhkZGRgYGBcXFxYWFhUVFRQUFBMTExISEhERERAQEA8PDw4ODg0N
+DQwMDAsLCwoKCgkJCQgICAcHBwYGBgUFBQQEBAMDAwICAgEBAQAAACwAAAAALwA1AAAI/wBnCBxI
+sKBBgZdOHVzIsCHDS/8i/rvksKJFguckSjx3sePCYxpD/jvmseQpkZcghlRY0qFKjac+HADw4WTI
+Qy0XZtT47AeAnz8P/LgW8lpOgiA1frsDtCnQO99C3sppU+OhC06zAnjwUiLLi0Q1HnvRdObWE0Gb
+vki6EafDWyGfXdF6wealB1qfhJVodGHXiIe0ArgT8hxTrYdETi24U+KlD2V/Xtlb1KdZoDVRCqwa
+8diTy0BfwBUpFXLWG2w7pz43NyvXkO9IO8ab9UzjkHcvm71zG7bsc2cAgBb+919rp0NlK6+s9YzY
+4R9GL5cdGyZap2wvNX09vbvIQw8uv//U/vMBZe/oR86cmRjwzA/np59qj/4aVgDjf75YXj1iTOEX
+SCdSfxGZlh8A+3V3yxFZ/fCMRgRqZKBj+k33TXCCDRbVchNGRN4Ny4GXlmDcydbhRBX6dotpGYJ2
+goAS/nRggv9Ud41PGQo2k14iyQQAfeTR+A9wWZk1XIZQxYifRIEhOFuOkeVY4olB/nMLWVAKV2SU
++sFF5U8fPNEilEdm9cR9B2ap5ppLesjmm1CmCeecTclJJ5123glnnnqyyWefav4JaJwUDrpnoYb6
+iWiigS7KKKFuPtpopJJCimKlOR4AJKaWksepYFU982mGt3k6qlk2NXZNSqy26uqrsMYUyupe9KVn
+63SXvHDIhrf2etMLAQEAOw==
+
+------=_NextPart_000_0082_01CB09CC.A9220AF0
+Content-Type: application/x-css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://ss64.com/main.css
+
+.head {
+	FONT-FAMILY: Helvetica, Arial, Verdana, geneva, sans-serif; FONT-SIZE: =
+large
+}
+.body {
+	FONT-FAMILY: Helvetica, Arial, Verdana, geneva, sans-serif; FONT-SIZE: =
+100%
+}
+.blu {
+	COLOR: #09f; TEXT-DECORATION: none
+}
+.tagline {
+	TEXT-ALIGN: right; FONT-FAMILY: Helvetica, Arial, Verdana, geneva, =
+sans-serif; FONT-SIZE: 75%
+}
+.telety {
+	FONT-FAMILY: "courier new", courier, "Andale Mono", monospace; =
+FONT-SIZE: 100%
+}
+.code {
+	FONT-FAMILY: "courier new", courier, "Andale Mono", monospace; =
+FONT-SIZE: 100%
+}
+.menu {
+	FONT-FAMILY: Helvetica, Arial, Verdana, geneva, sans-serif; FONT-SIZE: =
+100%
+}
+A:link {
+	COLOR: #00f; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #06f; TEXT-DECORATION: none
+}
+A:hover:visited {
+	COLOR: #00f; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #00f; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #00f
+}
+#nav-menu {
+	WIDTH: 60em; HEIGHT: 50px
+}
+#nav-menu UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: =
+0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+#nav-menu LI {
+	MARGIN: 0px 0.15em; FLOAT: left
+}
+#nav-menu LI A {
+	TEXT-ALIGN: center; LINE-HEIGHT: 47px; OUTLINE-STYLE: none; =
+OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; WIDTH: 115px; DISPLAY: =
+block; HEIGHT: 47px; TEXT-DECORATION: none
+}
+#nav-menu INPUT {
+	MARGIN-TOP: 0.7em; MARGIN-LEFT: 0.7em
+}
+#nav-menu .submit {
+	MARGIN-RIGHT: 0.7em
+}
+#top {
+	MARGIN: 0px 0px 1em 1.5em; FLOAT: left
+}
+#top A {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium
+}
+BODY {
+	BACKGROUND-COLOR: #ccc; COLOR: #000; FONT-WEIGHT: normal
+}
+P {
+	FONT-FAMILY: Helvetica, Arial, Verdana, geneva, sans-serif; FONT-SIZE: =
+100%; FONT-WEIGHT: normal
+}
+OL {
+	FONT-FAMILY: Helvetica, Arial, Verdana, geneva, sans-serif; FONT-SIZE: =
+100%; FONT-WEIGHT: normal
+}
+UL {
+	FONT-FAMILY: Helvetica, Arial, Verdana, geneva, sans-serif; FONT-SIZE: =
+100%; FONT-WEIGHT: normal
+}
+H1 {
+	FONT-FAMILY: Helvetica, Arial, Verdana, geneva, sans-serif; FONT-SIZE: =
+100%; FONT-WEIGHT: normal
+}
+H2 {
+	FONT-FAMILY: Helvetica, Arial, Verdana, geneva, sans-serif; FONT-SIZE: =
+100%; FONT-WEIGHT: normal
+}
+DT {
+	FONT-FAMILY: Helvetica, Arial, Verdana, geneva, sans-serif; FONT-SIZE: =
+100%; FONT-WEIGHT: normal
+}
+DD {
+	FONT-FAMILY: Helvetica, Arial, Verdana, geneva, sans-serif; FONT-SIZE: =
+100%; FONT-WEIGHT: normal
+}
+TABLE {
+	FONT-FAMILY: Helvetica, Arial, Verdana, geneva, sans-serif; FONT-SIZE: =
+100%; FONT-WEIGHT: normal
+}
+PRE {
+	FONT-FAMILY: "courier new", "Andale Mono", courier, monospace; =
+FONT-SIZE: 100%
+}
+H1 {
+	CLEAR: both; FONT-SIZE: 140%
+}
+H2 {
+	COLOR: #000; FONT-WEIGHT: bold
+}
+TR {
+	FONT-FAMILY: verdana, geneva, helvetica, Sans-Serif; FONT-SIZE: 100%; =
+FONT-WEIGHT: normal
+}
+TD {
+	FONT-FAMILY: verdana, geneva, helvetica, Sans-Serif; FONT-SIZE: 100%; =
+FONT-WEIGHT: normal
+}
+A.rl {
+	BACKGROUND: url(images/roll-left.png) no-repeat 0px 0px; =
+TEXT-DECORATION: none
+}
+A.rr {
+	BACKGROUND: url(images/roll-right.png) no-repeat 0px 0px; =
+TEXT-DECORATION: none
+}
+#nav-menu A:hover {
+	BACKGROUND-POSITION: 0px -47px
+}
+#nav-menu A:active {
+	BACKGROUND-POSITION: 0px -94px
+}
+#nav-menu IMG {
+	BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-LEFT-WIDTH: 0px
+}
+
+------=_NextPart_000_0082_01CB09CC.A9220AF0--
